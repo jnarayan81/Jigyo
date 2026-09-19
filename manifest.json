@@ -1,0 +1,31 @@
+{
+  "schemaVersion": 1,
+  "app": "Jigyo",
+  "contentVersion": 1,
+  "packs": [
+    {
+      "id": "animals",
+      "name": "Amazing Animals",
+      "version": 1,
+      "url": "packs/animals/pack.json"
+    },
+    {
+      "id": "space",
+      "name": "Amazing Space",
+      "version": 1,
+      "url": "packs/space/pack.json"
+    },
+    {
+      "id": "dinosaurs",
+      "name": "Dinosaur World",
+      "version": 1,
+      "url": "packs/dinosaurs/pack.json"
+    },
+    {
+      "id": "science",
+      "name": "Little Scientists",
+      "version": 1,
+      "url": "packs/science/pack.json"
+    }
+  ]
+}
