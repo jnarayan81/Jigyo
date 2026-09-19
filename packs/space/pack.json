@@ -1,0 +1,48 @@
+{
+  "schemaVersion": 1,
+  "packId": "space",
+  "name": "Amazing Space",
+  "version": 1,
+  "cards": [
+    {
+      "id": "space-rocket",
+      "title": "Blast Off!",
+      "topic": "Space",
+      "emoji": "🚀",
+      "funFact": "A rocket needs powerful engines to escape Earth's gravity.",
+      "mediaType": "EMOJI"
+    },
+    {
+      "id": "space-moon",
+      "title": "Our Moon",
+      "topic": "Space",
+      "emoji": "🌙",
+      "funFact": "The Moon takes about 27 days to orbit Earth.",
+      "mediaType": "EMOJI"
+    },
+    {
+      "id": "space-earth",
+      "title": "Our Amazing Earth",
+      "topic": "Space",
+      "emoji": "🌍",
+      "funFact": "Earth is the only planet currently known to support life.",
+      "mediaType": "EMOJI"
+    },
+    {
+      "id": "space-saturn",
+      "title": "Ringed Saturn",
+      "topic": "Space",
+      "emoji": "🪐",
+      "funFact": "Saturn's rings are made mostly of ice and rock.",
+      "mediaType": "EMOJI"
+    },
+    {
+      "id": "space-star",
+      "title": "Twinkling Stars",
+      "topic": "Space",
+      "emoji": "⭐",
+      "funFact": "The Sun is a star.",
+      "mediaType": "EMOJI"
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "schemaVersion": 1,
+  "packId": "dinosaurs",
+  "name": "Dinosaur World",
+  "version": 1,
+  "cards": [
+    {
+      "id": "dino-trex",
+      "title": "T-Rex",
+      "topic": "Dinosaurs",
+      "emoji": "🦖",
+      "funFact": "Tyrannosaurus rex lived about 66–68 million years ago.",
+      "mediaType": "EMOJI"
+    },
+    {
+      "id": "dino-triceratops",
+      "title": "Triceratops",
+      "topic": "Dinosaurs",
+      "emoji": "🦕",
+      "funFact": "Triceratops had three horns and a large bony frill.",
+      "mediaType": "EMOJI"
+    },
+    {
+      "id": "dino-stegosaurus",
+      "title": "Stegosaurus",
+      "topic": "Dinosaurs",
+      "emoji": "🦕",
+      "funFact": "Stegosaurus had large plates along its back.",
+      "mediaType": "EMOJI"
+    },
+    {
+      "id": "dino-fossil",
+      "title": "Fossil Hunt",
+      "topic": "Dinosaurs",
+      "emoji": "🦴",
+      "funFact": "Fossils help scientists learn about ancient life.",
+      "mediaType": "EMOJI"
+    }
+  ]
+}
