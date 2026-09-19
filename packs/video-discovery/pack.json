@@ -1,0 +1,246 @@
+{
+  "schemaVersion": 3,
+  "packId": "video-discovery",
+  "name": "Animated Discoveries",
+  "description": "Eight short visual discovery animations for Jigyo.",
+  "version": 1,
+  "packEmoji": "🎬",
+  "ageBands": [
+    "6-8",
+    "9-12"
+  ],
+  "cards": [
+    {
+      "id": "video-math-octopus-01",
+      "title": "Four Octopuses, One Big Number",
+      "topic": "Math",
+      "subtopics": [
+        "Animated Discovery"
+      ],
+      "ageBands": [
+        "6-8",
+        "9-12"
+      ],
+      "tags": [
+        "math",
+        "video",
+        "animation"
+      ],
+      "mediaType": "ANIMATED_IMAGE",
+      "mediaUrl": "packs/video-discovery/media/math-octopus.gif",
+      "thumbnailUrl": "packs/video-discovery/media/math-octopus-thumb.jpg",
+      "durationSeconds": 18,
+      "funFact": "Four groups of eight make thirty-two.",
+      "difficulty": 2,
+      "interaction": "video_discovery",
+      "estimatedViewSeconds": 18,
+      "animation": {
+        "preset": "none",
+        "loop": true
+      }
+    },
+    {
+      "id": "video-space-rocket-01",
+      "title": "Rocket Launch!",
+      "topic": "Space",
+      "subtopics": [
+        "Animated Discovery"
+      ],
+      "ageBands": [
+        "6-8",
+        "9-12"
+      ],
+      "tags": [
+        "space",
+        "video",
+        "animation"
+      ],
+      "mediaType": "ANIMATED_IMAGE",
+      "mediaUrl": "packs/video-discovery/media/space-rocket.gif",
+      "thumbnailUrl": "packs/video-discovery/media/space-rocket-thumb.jpg",
+      "durationSeconds": 18,
+      "funFact": "Rockets accelerate by pushing exhaust gases in the opposite direction.",
+      "difficulty": 2,
+      "interaction": "video_discovery",
+      "estimatedViewSeconds": 18,
+      "animation": {
+        "preset": "none",
+        "loop": true
+      }
+    },
+    {
+      "id": "video-animals-elephant-01",
+      "title": "An Elephant's Amazing Trunk",
+      "topic": "Animals",
+      "subtopics": [
+        "Animated Discovery"
+      ],
+      "ageBands": [
+        "6-8",
+        "9-12"
+      ],
+      "tags": [
+        "animals",
+        "video",
+        "animation"
+      ],
+      "mediaType": "ANIMATED_IMAGE",
+      "mediaUrl": "packs/video-discovery/media/animals-elephant.gif",
+      "thumbnailUrl": "packs/video-discovery/media/animals-elephant-thumb.jpg",
+      "durationSeconds": 16,
+      "funFact": "An elephant's trunk combines its nose and upper lip.",
+      "difficulty": 2,
+      "interaction": "video_discovery",
+      "estimatedViewSeconds": 16,
+      "animation": {
+        "preset": "none",
+        "loop": true
+      }
+    },
+    {
+      "id": "video-dinosaurs-trex-01",
+      "title": "The Mighty T. rex",
+      "topic": "Dinosaurs",
+      "subtopics": [
+        "Animated Discovery"
+      ],
+      "ageBands": [
+        "6-8",
+        "9-12"
+      ],
+      "tags": [
+        "dinosaurs",
+        "video",
+        "animation"
+      ],
+      "mediaType": "ANIMATED_IMAGE",
+      "mediaUrl": "packs/video-discovery/media/dinosaurs-trex.gif",
+      "thumbnailUrl": "packs/video-discovery/media/dinosaurs-trex-thumb.jpg",
+      "durationSeconds": 18,
+      "funFact": "T. rex was a large theropod dinosaur.",
+      "difficulty": 2,
+      "interaction": "video_discovery",
+      "estimatedViewSeconds": 18,
+      "animation": {
+        "preset": "none",
+        "loop": true
+      }
+    },
+    {
+      "id": "video-science-water-01",
+      "title": "Water Changes",
+      "topic": "Science",
+      "subtopics": [
+        "Animated Discovery"
+      ],
+      "ageBands": [
+        "6-8",
+        "9-12"
+      ],
+      "tags": [
+        "science",
+        "video",
+        "animation"
+      ],
+      "mediaType": "ANIMATED_IMAGE",
+      "mediaUrl": "packs/video-discovery/media/science-water.gif",
+      "thumbnailUrl": "packs/video-discovery/media/science-water-thumb.jpg",
+      "durationSeconds": 15,
+      "funFact": "Water can change between solid, liquid and gas.",
+      "difficulty": 2,
+      "interaction": "video_discovery",
+      "estimatedViewSeconds": 15,
+      "animation": {
+        "preset": "none",
+        "loop": true
+      }
+    },
+    {
+      "id": "video-earth-volcano-01",
+      "title": "Inside a Volcano",
+      "topic": "Earth",
+      "subtopics": [
+        "Animated Discovery"
+      ],
+      "ageBands": [
+        "6-8",
+        "9-12"
+      ],
+      "tags": [
+        "earth",
+        "video",
+        "animation"
+      ],
+      "mediaType": "ANIMATED_IMAGE",
+      "mediaUrl": "packs/video-discovery/media/earth-volcano.gif",
+      "thumbnailUrl": "packs/video-discovery/media/earth-volcano-thumb.jpg",
+      "durationSeconds": 18,
+      "funFact": "Molten rock below ground is magma; at the surface it is lava.",
+      "difficulty": 2,
+      "interaction": "video_discovery",
+      "estimatedViewSeconds": 18,
+      "animation": {
+        "preset": "none",
+        "loop": true
+      }
+    },
+    {
+      "id": "video-body-heart-01",
+      "title": "A Heart That Never Stops",
+      "topic": "Human Body",
+      "subtopics": [
+        "Animated Discovery"
+      ],
+      "ageBands": [
+        "6-8",
+        "9-12"
+      ],
+      "tags": [
+        "human-body",
+        "video",
+        "animation"
+      ],
+      "mediaType": "ANIMATED_IMAGE",
+      "mediaUrl": "packs/video-discovery/media/body-heart.gif",
+      "thumbnailUrl": "packs/video-discovery/media/body-heart-thumb.jpg",
+      "durationSeconds": 17,
+      "funFact": "The heart pumps blood through the circulatory system.",
+      "difficulty": 2,
+      "interaction": "video_discovery",
+      "estimatedViewSeconds": 17,
+      "animation": {
+        "preset": "none",
+        "loop": true
+      }
+    },
+    {
+      "id": "video-engineering-gears-01",
+      "title": "How Gears Make Things Move",
+      "topic": "Engineering",
+      "subtopics": [
+        "Animated Discovery"
+      ],
+      "ageBands": [
+        "6-8",
+        "9-12"
+      ],
+      "tags": [
+        "engineering",
+        "video",
+        "animation"
+      ],
+      "mediaType": "ANIMATED_IMAGE",
+      "mediaUrl": "packs/video-discovery/media/engineering-gears.gif",
+      "thumbnailUrl": "packs/video-discovery/media/engineering-gears-thumb.jpg",
+      "durationSeconds": 16,
+      "funFact": "Meshing gears transfer rotational motion.",
+      "difficulty": 2,
+      "interaction": "video_discovery",
+      "estimatedViewSeconds": 16,
+      "animation": {
+        "preset": "none",
+        "loop": true
+      }
+    }
+  ]
+}
