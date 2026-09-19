@@ -1,7 +1,7 @@
 {
-  "schemaVersion": 2,
+  "schemaVersion": 3,
   "app": "Jigyo",
-  "contentVersion": 2,
+  "contentVersion": 3,
   "packs": [
     {
       "id": "animals",
@@ -33,6 +33,70 @@
       "version": 2,
       "url": "packs/science/pack.json",
       "emoji": "🔬",
+      "cardCount": 8
+    },
+    {
+      "id": "math",
+      "name": "Math Adventures",
+      "version": 1,
+      "url": "packs/math/pack.json",
+      "emoji": "🧮",
+      "cardCount": 10
+    },
+    {
+      "id": "brain-teasers",
+      "name": "Brain Teasers",
+      "version": 1,
+      "url": "packs/brain-teasers/pack.json",
+      "emoji": "🧠",
+      "cardCount": 8
+    },
+    {
+      "id": "earth",
+      "name": "Amazing Earth",
+      "version": 1,
+      "url": "packs/earth/pack.json",
+      "emoji": "🌍",
+      "cardCount": 8
+    },
+    {
+      "id": "human-body",
+      "name": "Human Body",
+      "version": 1,
+      "url": "packs/human-body/pack.json",
+      "emoji": "❤️",
+      "cardCount": 8
+    },
+    {
+      "id": "engineering",
+      "name": "Engineering & Machines",
+      "version": 1,
+      "url": "packs/engineering/pack.json",
+      "emoji": "⚙️",
+      "cardCount": 8
+    },
+    {
+      "id": "nature",
+      "name": "Nature & Plants",
+      "version": 1,
+      "url": "packs/nature/pack.json",
+      "emoji": "🌱",
+      "cardCount": 8
+    },
+    {
+      "id": "coding",
+      "name": "Coding Thinking",
+      "version": 1,
+      "url": "packs/coding/pack.json",
+      "emoji": "💻",
+      "cardCount": 8
+    },
+    {
+      "id": "world-wonders",
+      "name": "World Wonders",
+      "version": 1,
+      "url": "packs/world-wonders/pack.json",
+      "emoji": "🏛️",
       "cardCount": 8
     }
   ]
