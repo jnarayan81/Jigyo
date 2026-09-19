@@ -1,0 +1,444 @@
+{
+  "schemaVersion": 3,
+  "packId": "math",
+  "name": "Math Adventures",
+  "description": "Interactive math adventures discovery challenges.",
+  "version": 1,
+  "packEmoji": "🧮",
+  "ageBands": [
+    "6-8",
+    "9-12"
+  ],
+  "cards": [
+    {
+      "id": "math-pattern-party-01",
+      "title": "Pattern Party",
+      "topic": "Math",
+      "subtopics": [
+        "Patterns",
+        "Sequences"
+      ],
+      "ageBands": [
+        "6-8",
+        "9-12"
+      ],
+      "tags": [
+        "patterns",
+        "sequences"
+      ],
+      "mediaType": "EMOJI",
+      "emoji": "🔢",
+      "difficulty": 1,
+      "interaction": "multiple_choice",
+      "estimatedViewSeconds": 12,
+      "challenge": {
+        "prompt": "What comes next: 2, 4, 6, 8, ?",
+        "choices": [
+          "9",
+          "10",
+          "11",
+          "12"
+        ],
+        "answer": "10",
+        "explanation": "The numbers increase by 2 each time."
+      },
+      "animation": {
+        "preset": "float_bounce",
+        "durationMs": 2200,
+        "intensity": "gentle",
+        "loop": true
+      },
+      "reveal": {
+        "prompt": "Choose your answer!",
+        "style": "flip_fact"
+      }
+    },
+    {
+      "id": "math-octopus-math-01",
+      "title": "Octopus Math",
+      "topic": "Math",
+      "subtopics": [
+        "Multiplication",
+        "Visual Math"
+      ],
+      "ageBands": [
+        "6-8",
+        "9-12"
+      ],
+      "tags": [
+        "multiplication",
+        "visual-math"
+      ],
+      "mediaType": "EMOJI",
+      "emoji": "🐙",
+      "difficulty": 2,
+      "interaction": "multiple_choice",
+      "estimatedViewSeconds": 12,
+      "challenge": {
+        "prompt": "Four octopuses have 8 arms each. How many arms?",
+        "choices": [
+          "24",
+          "28",
+          "32",
+          "36"
+        ],
+        "answer": "32",
+        "explanation": "4 groups of 8 make 32."
+      },
+      "animation": {
+        "preset": "float_bounce",
+        "durationMs": 2200,
+        "intensity": "gentle",
+        "loop": true
+      },
+      "reveal": {
+        "prompt": "Choose your answer!",
+        "style": "flip_fact"
+      }
+    },
+    {
+      "id": "math-fraction-pizza-01",
+      "title": "Pizza Fractions",
+      "topic": "Math",
+      "subtopics": [
+        "Fractions",
+        "Parts of a Whole"
+      ],
+      "ageBands": [
+        "6-8",
+        "9-12"
+      ],
+      "tags": [
+        "fractions",
+        "parts-of-a-whole"
+      ],
+      "mediaType": "EMOJI",
+      "emoji": "🍕",
+      "difficulty": 2,
+      "interaction": "multiple_choice",
+      "estimatedViewSeconds": 12,
+      "challenge": {
+        "prompt": "A pizza has 8 equal slices. You eat 2. What fraction did you eat?",
+        "choices": [
+          "1/2",
+          "1/4",
+          "2/3",
+          "3/4"
+        ],
+        "answer": "1/4",
+        "explanation": "2 out of 8 simplifies to 1/4."
+      },
+      "animation": {
+        "preset": "float_bounce",
+        "durationMs": 2200,
+        "intensity": "gentle",
+        "loop": true
+      },
+      "reveal": {
+        "prompt": "Choose your answer!",
+        "style": "flip_fact"
+      }
+    },
+    {
+      "id": "math-shape-hunt-01",
+      "title": "Shape Hunt",
+      "topic": "Math",
+      "subtopics": [
+        "Geometry",
+        "Shapes"
+      ],
+      "ageBands": [
+        "6-8",
+        "9-12"
+      ],
+      "tags": [
+        "geometry",
+        "shapes"
+      ],
+      "mediaType": "EMOJI",
+      "emoji": "🔺",
+      "difficulty": 1,
+      "interaction": "multiple_choice",
+      "estimatedViewSeconds": 12,
+      "challenge": {
+        "prompt": "Which shape has exactly 3 sides?",
+        "choices": [
+          "Square",
+          "Triangle",
+          "Circle",
+          "Pentagon"
+        ],
+        "answer": "Triangle",
+        "explanation": "A triangle has three sides."
+      },
+      "animation": {
+        "preset": "float_bounce",
+        "durationMs": 2200,
+        "intensity": "gentle",
+        "loop": true
+      },
+      "reveal": {
+        "prompt": "Choose your answer!",
+        "style": "flip_fact"
+      }
+    },
+    {
+      "id": "math-double-it-01",
+      "title": "Double It",
+      "topic": "Math",
+      "subtopics": [
+        "Addition",
+        "Mental Math"
+      ],
+      "ageBands": [
+        "6-8",
+        "9-12"
+      ],
+      "tags": [
+        "addition",
+        "mental-math"
+      ],
+      "mediaType": "EMOJI",
+      "emoji": "✌️",
+      "difficulty": 1,
+      "interaction": "multiple_choice",
+      "estimatedViewSeconds": 12,
+      "challenge": {
+        "prompt": "What is double 7?",
+        "choices": [
+          "12",
+          "14",
+          "16",
+          "21"
+        ],
+        "answer": "14",
+        "explanation": "Doubling 7 means 7 + 7."
+      },
+      "animation": {
+        "preset": "float_bounce",
+        "durationMs": 2200,
+        "intensity": "gentle",
+        "loop": true
+      },
+      "reveal": {
+        "prompt": "Choose your answer!",
+        "style": "flip_fact"
+      }
+    },
+    {
+      "id": "math-estimate-stars-01",
+      "title": "Estimate the Stars",
+      "topic": "Math",
+      "subtopics": [
+        "Estimation",
+        "Number Sense"
+      ],
+      "ageBands": [
+        "6-8",
+        "9-12"
+      ],
+      "tags": [
+        "estimation",
+        "number-sense"
+      ],
+      "mediaType": "EMOJI",
+      "emoji": "✨",
+      "difficulty": 2,
+      "interaction": "multiple_choice",
+      "estimatedViewSeconds": 12,
+      "challenge": {
+        "prompt": "Which is the best estimate for a group that looks close to 50 stars?",
+        "choices": [
+          "5",
+          "20",
+          "50",
+          "500"
+        ],
+        "answer": "50",
+        "explanation": "Estimation means choosing a sensible nearby amount."
+      },
+      "animation": {
+        "preset": "float_bounce",
+        "durationMs": 2200,
+        "intensity": "gentle",
+        "loop": true
+      },
+      "reveal": {
+        "prompt": "Choose your answer!",
+        "style": "flip_fact"
+      }
+    },
+    {
+      "id": "math-symmetry-01",
+      "title": "Mirror Magic",
+      "topic": "Math",
+      "subtopics": [
+        "Geometry",
+        "Symmetry"
+      ],
+      "ageBands": [
+        "6-8",
+        "9-12"
+      ],
+      "tags": [
+        "geometry",
+        "symmetry"
+      ],
+      "mediaType": "EMOJI",
+      "emoji": "🦋",
+      "difficulty": 2,
+      "interaction": "multiple_choice",
+      "estimatedViewSeconds": 12,
+      "challenge": {
+        "prompt": "A butterfly often shows which kind of visual idea?",
+        "choices": [
+          "Symmetry",
+          "Division",
+          "Temperature",
+          "Time"
+        ],
+        "answer": "Symmetry",
+        "explanation": "Its left and right sides can appear like mirror images."
+      },
+      "animation": {
+        "preset": "float_bounce",
+        "durationMs": 2200,
+        "intensity": "gentle",
+        "loop": true
+      },
+      "reveal": {
+        "prompt": "Choose your answer!",
+        "style": "flip_fact"
+      }
+    },
+    {
+      "id": "math-probability-01",
+      "title": "Mystery Bag",
+      "topic": "Math",
+      "subtopics": [
+        "Probability",
+        "Reasoning"
+      ],
+      "ageBands": [
+        "6-8",
+        "9-12"
+      ],
+      "tags": [
+        "probability",
+        "reasoning"
+      ],
+      "mediaType": "EMOJI",
+      "emoji": "🎒",
+      "difficulty": 2,
+      "interaction": "multiple_choice",
+      "estimatedViewSeconds": 12,
+      "challenge": {
+        "prompt": "A bag has 9 blue balls and 1 red ball. Which color are you more likely to pick?",
+        "choices": [
+          "Red",
+          "Blue",
+          "Same chance",
+          "Impossible"
+        ],
+        "answer": "Blue",
+        "explanation": "There are many more blue balls."
+      },
+      "animation": {
+        "preset": "float_bounce",
+        "durationMs": 2200,
+        "intensity": "gentle",
+        "loop": true
+      },
+      "reveal": {
+        "prompt": "Choose your answer!",
+        "style": "flip_fact"
+      }
+    },
+    {
+      "id": "math-place-value-01",
+      "title": "Number Builder",
+      "topic": "Math",
+      "subtopics": [
+        "Place Value",
+        "Numbers"
+      ],
+      "ageBands": [
+        "6-8",
+        "9-12"
+      ],
+      "tags": [
+        "place-value",
+        "numbers"
+      ],
+      "mediaType": "EMOJI",
+      "emoji": "🏗️",
+      "difficulty": 2,
+      "interaction": "multiple_choice",
+      "estimatedViewSeconds": 12,
+      "challenge": {
+        "prompt": "In 347, what value does the 4 represent?",
+        "choices": [
+          "4",
+          "40",
+          "400",
+          "4000"
+        ],
+        "answer": "40",
+        "explanation": "The 4 is in the tens place."
+      },
+      "animation": {
+        "preset": "float_bounce",
+        "durationMs": 2200,
+        "intensity": "gentle",
+        "loop": true
+      },
+      "reveal": {
+        "prompt": "Choose your answer!",
+        "style": "flip_fact"
+      }
+    },
+    {
+      "id": "math-clock-01",
+      "title": "Time Traveller",
+      "topic": "Math",
+      "subtopics": [
+        "Time",
+        "Measurement"
+      ],
+      "ageBands": [
+        "6-8",
+        "9-12"
+      ],
+      "tags": [
+        "time",
+        "measurement"
+      ],
+      "mediaType": "EMOJI",
+      "emoji": "⏰",
+      "difficulty": 2,
+      "interaction": "multiple_choice",
+      "estimatedViewSeconds": 12,
+      "challenge": {
+        "prompt": "30 minutes after 3:15 is…",
+        "choices": [
+          "3:30",
+          "3:45",
+          "4:15",
+          "4:30"
+        ],
+        "answer": "3:45",
+        "explanation": "Adding 30 minutes to 3:15 gives 3:45."
+      },
+      "animation": {
+        "preset": "float_bounce",
+        "durationMs": 2200,
+        "intensity": "gentle",
+        "loop": true
+      },
+      "reveal": {
+        "prompt": "Choose your answer!",
+        "style": "flip_fact"
+      }
+    }
+  ]
+}

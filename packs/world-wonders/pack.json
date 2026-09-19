@@ -1,0 +1,358 @@
+{
+  "schemaVersion": 3,
+  "packId": "world-wonders",
+  "name": "World Wonders",
+  "description": "Interactive world wonders discovery challenges.",
+  "version": 1,
+  "packEmoji": "🏛️",
+  "ageBands": [
+    "6-8",
+    "9-12"
+  ],
+  "cards": [
+    {
+      "id": "world-wonders-pyramids-01",
+      "title": "Pyramid Puzzle",
+      "topic": "World Wonders",
+      "subtopics": [
+        "Structures",
+        "History"
+      ],
+      "ageBands": [
+        "6-8",
+        "9-12"
+      ],
+      "tags": [
+        "structures",
+        "history"
+      ],
+      "mediaType": "EMOJI",
+      "emoji": "🔺",
+      "difficulty": 1,
+      "interaction": "multiple_choice",
+      "estimatedViewSeconds": 12,
+      "challenge": {
+        "prompt": "The Great Pyramid of Giza is in…",
+        "choices": [
+          "Egypt",
+          "Brazil",
+          "Japan",
+          "Canada"
+        ],
+        "answer": "Egypt",
+        "explanation": "The Great Pyramid stands at Giza in Egypt."
+      },
+      "animation": {
+        "preset": "float_bounce",
+        "durationMs": 2200,
+        "intensity": "gentle",
+        "loop": true
+      },
+      "reveal": {
+        "prompt": "Choose your answer!",
+        "style": "flip_fact"
+      }
+    },
+    {
+      "id": "world-wonders-great-wall-01",
+      "title": "Long Wall",
+      "topic": "World Wonders",
+      "subtopics": [
+        "Structures",
+        "History"
+      ],
+      "ageBands": [
+        "6-8",
+        "9-12"
+      ],
+      "tags": [
+        "structures",
+        "history"
+      ],
+      "mediaType": "EMOJI",
+      "emoji": "🧱",
+      "difficulty": 1,
+      "interaction": "multiple_choice",
+      "estimatedViewSeconds": 12,
+      "challenge": {
+        "prompt": "The Great Wall is associated with…",
+        "choices": [
+          "China",
+          "Iceland",
+          "Peru",
+          "Australia"
+        ],
+        "answer": "China",
+        "explanation": "Many fortification walls were built across northern China over centuries."
+      },
+      "animation": {
+        "preset": "float_bounce",
+        "durationMs": 2200,
+        "intensity": "gentle",
+        "loop": true
+      },
+      "reveal": {
+        "prompt": "Choose your answer!",
+        "style": "flip_fact"
+      }
+    },
+    {
+      "id": "world-wonders-reef-01",
+      "title": "Living Reef",
+      "topic": "World Wonders",
+      "subtopics": [
+        "Nature",
+        "Oceans"
+      ],
+      "ageBands": [
+        "6-8",
+        "9-12"
+      ],
+      "tags": [
+        "nature",
+        "oceans"
+      ],
+      "mediaType": "EMOJI",
+      "emoji": "🐠",
+      "difficulty": 2,
+      "interaction": "multiple_choice",
+      "estimatedViewSeconds": 12,
+      "challenge": {
+        "prompt": "Coral reefs are built largely by tiny animals called coral…",
+        "choices": [
+          "Polyps",
+          "Pandas",
+          "Eagles",
+          "Beetles"
+        ],
+        "answer": "Polyps",
+        "explanation": "Coral colonies are made of small animals called polyps."
+      },
+      "animation": {
+        "preset": "float_bounce",
+        "durationMs": 2200,
+        "intensity": "gentle",
+        "loop": true
+      },
+      "reveal": {
+        "prompt": "Choose your answer!",
+        "style": "flip_fact"
+      }
+    },
+    {
+      "id": "world-wonders-everest-01",
+      "title": "High Mountain",
+      "topic": "World Wonders",
+      "subtopics": [
+        "Geography",
+        "Mountains"
+      ],
+      "ageBands": [
+        "6-8",
+        "9-12"
+      ],
+      "tags": [
+        "geography",
+        "mountains"
+      ],
+      "mediaType": "EMOJI",
+      "emoji": "🏔️",
+      "difficulty": 2,
+      "interaction": "multiple_choice",
+      "estimatedViewSeconds": 12,
+      "challenge": {
+        "prompt": "Mount Everest is part of the…",
+        "choices": [
+          "Himalayas",
+          "Andes",
+          "Alps",
+          "Rockies"
+        ],
+        "answer": "Himalayas",
+        "explanation": "Everest lies in the Himalayan mountain range."
+      },
+      "animation": {
+        "preset": "float_bounce",
+        "durationMs": 2200,
+        "intensity": "gentle",
+        "loop": true
+      },
+      "reveal": {
+        "prompt": "Choose your answer!",
+        "style": "flip_fact"
+      }
+    },
+    {
+      "id": "world-wonders-amazon-01",
+      "title": "Rainforest Giant",
+      "topic": "World Wonders",
+      "subtopics": [
+        "Geography",
+        "Rainforests"
+      ],
+      "ageBands": [
+        "6-8",
+        "9-12"
+      ],
+      "tags": [
+        "geography",
+        "rainforests"
+      ],
+      "mediaType": "EMOJI",
+      "emoji": "🌳",
+      "difficulty": 1,
+      "interaction": "multiple_choice",
+      "estimatedViewSeconds": 12,
+      "challenge": {
+        "prompt": "The Amazon rainforest is mostly in…",
+        "choices": [
+          "South America",
+          "Europe",
+          "Antarctica",
+          "Australia"
+        ],
+        "answer": "South America",
+        "explanation": "The Amazon basin spans several South American countries."
+      },
+      "animation": {
+        "preset": "float_bounce",
+        "durationMs": 2200,
+        "intensity": "gentle",
+        "loop": true
+      },
+      "reveal": {
+        "prompt": "Choose your answer!",
+        "style": "flip_fact"
+      }
+    },
+    {
+      "id": "world-wonders-sahara-01",
+      "title": "Desert Scale",
+      "topic": "World Wonders",
+      "subtopics": [
+        "Geography",
+        "Deserts"
+      ],
+      "ageBands": [
+        "6-8",
+        "9-12"
+      ],
+      "tags": [
+        "geography",
+        "deserts"
+      ],
+      "mediaType": "EMOJI",
+      "emoji": "🏜️",
+      "difficulty": 1,
+      "interaction": "multiple_choice",
+      "estimatedViewSeconds": 12,
+      "challenge": {
+        "prompt": "The Sahara is a vast desert in…",
+        "choices": [
+          "Africa",
+          "Europe",
+          "North America",
+          "Antarctica"
+        ],
+        "answer": "Africa",
+        "explanation": "The Sahara stretches across northern Africa."
+      },
+      "animation": {
+        "preset": "float_bounce",
+        "durationMs": 2200,
+        "intensity": "gentle",
+        "loop": true
+      },
+      "reveal": {
+        "prompt": "Choose your answer!",
+        "style": "flip_fact"
+      }
+    },
+    {
+      "id": "world-wonders-waterfall-01",
+      "title": "Falling Water",
+      "topic": "World Wonders",
+      "subtopics": [
+        "Geography",
+        "Water"
+      ],
+      "ageBands": [
+        "6-8",
+        "9-12"
+      ],
+      "tags": [
+        "geography",
+        "water"
+      ],
+      "mediaType": "EMOJI",
+      "emoji": "💦",
+      "difficulty": 1,
+      "interaction": "multiple_choice",
+      "estimatedViewSeconds": 12,
+      "challenge": {
+        "prompt": "A waterfall forms where a river drops over a…",
+        "choices": [
+          "Steep edge",
+          "Cloud",
+          "Tree branch always",
+          "Road"
+        ],
+        "answer": "Steep edge",
+        "explanation": "Waterfalls occur where flowing water descends sharply."
+      },
+      "animation": {
+        "preset": "float_bounce",
+        "durationMs": 2200,
+        "intensity": "gentle",
+        "loop": true
+      },
+      "reveal": {
+        "prompt": "Choose your answer!",
+        "style": "flip_fact"
+      }
+    },
+    {
+      "id": "world-wonders-geyser-01",
+      "title": "Geyser Blast",
+      "topic": "World Wonders",
+      "subtopics": [
+        "Geology",
+        "Geothermal"
+      ],
+      "ageBands": [
+        "6-8",
+        "9-12"
+      ],
+      "tags": [
+        "geology",
+        "geothermal"
+      ],
+      "mediaType": "EMOJI",
+      "emoji": "♨️",
+      "difficulty": 2,
+      "interaction": "multiple_choice",
+      "estimatedViewSeconds": 12,
+      "challenge": {
+        "prompt": "Geysers erupt hot water heated by energy from…",
+        "choices": [
+          "Inside Earth",
+          "Moonlight",
+          "Wind only",
+          "Trees"
+        ],
+        "answer": "Inside Earth",
+        "explanation": "Geothermal heat warms underground water."
+      },
+      "animation": {
+        "preset": "float_bounce",
+        "durationMs": 2200,
+        "intensity": "gentle",
+        "loop": true
+      },
+      "reveal": {
+        "prompt": "Choose your answer!",
+        "style": "flip_fact"
+      }
+    }
+  ]
+}

@@ -1,0 +1,358 @@
+{
+  "schemaVersion": 3,
+  "packId": "brain-teasers",
+  "name": "Brain Teasers",
+  "description": "Interactive brain teasers discovery challenges.",
+  "version": 1,
+  "packEmoji": "🧠",
+  "ageBands": [
+    "6-8",
+    "9-12"
+  ],
+  "cards": [
+    {
+      "id": "brain-teasers-odd-one-01",
+      "title": "Odd One Out",
+      "topic": "Brain Teasers",
+      "subtopics": [
+        "Logic",
+        "Classification"
+      ],
+      "ageBands": [
+        "6-8",
+        "9-12"
+      ],
+      "tags": [
+        "logic",
+        "classification"
+      ],
+      "mediaType": "EMOJI",
+      "emoji": "🧐",
+      "difficulty": 1,
+      "interaction": "multiple_choice",
+      "estimatedViewSeconds": 12,
+      "challenge": {
+        "prompt": "Which is different?",
+        "choices": [
+          "🐶",
+          "🐱",
+          "🐰",
+          "🚀"
+        ],
+        "answer": "🚀",
+        "explanation": "Three are animals; one is a spacecraft."
+      },
+      "animation": {
+        "preset": "float_bounce",
+        "durationMs": 2200,
+        "intensity": "gentle",
+        "loop": true
+      },
+      "reveal": {
+        "prompt": "Choose your answer!",
+        "style": "flip_fact"
+      }
+    },
+    {
+      "id": "brain-teasers-sequence-01",
+      "title": "Sequence Detective",
+      "topic": "Brain Teasers",
+      "subtopics": [
+        "Patterns",
+        "Logic"
+      ],
+      "ageBands": [
+        "6-8",
+        "9-12"
+      ],
+      "tags": [
+        "patterns",
+        "logic"
+      ],
+      "mediaType": "EMOJI",
+      "emoji": "🕵️",
+      "difficulty": 1,
+      "interaction": "multiple_choice",
+      "estimatedViewSeconds": 12,
+      "challenge": {
+        "prompt": "What comes next: ▲ ● ▲ ● ▲ ?",
+        "choices": [
+          "▲",
+          "●",
+          "■",
+          "★"
+        ],
+        "answer": "●",
+        "explanation": "The two shapes alternate."
+      },
+      "animation": {
+        "preset": "float_bounce",
+        "durationMs": 2200,
+        "intensity": "gentle",
+        "loop": true
+      },
+      "reveal": {
+        "prompt": "Choose your answer!",
+        "style": "flip_fact"
+      }
+    },
+    {
+      "id": "brain-teasers-riddle-shadow-01",
+      "title": "Shadow Riddle",
+      "topic": "Brain Teasers",
+      "subtopics": [
+        "Reasoning",
+        "Prediction"
+      ],
+      "ageBands": [
+        "6-8",
+        "9-12"
+      ],
+      "tags": [
+        "reasoning",
+        "prediction"
+      ],
+      "mediaType": "EMOJI",
+      "emoji": "🌑",
+      "difficulty": 2,
+      "interaction": "multiple_choice",
+      "estimatedViewSeconds": 12,
+      "challenge": {
+        "prompt": "When a light moves closer to an object, its shadow can become…",
+        "choices": [
+          "Larger",
+          "Always blue",
+          "Invisible forever",
+          "Heavier"
+        ],
+        "answer": "Larger",
+        "explanation": "Moving the light can change the size of the projected shadow."
+      },
+      "animation": {
+        "preset": "float_bounce",
+        "durationMs": 2200,
+        "intensity": "gentle",
+        "loop": true
+      },
+      "reveal": {
+        "prompt": "Choose your answer!",
+        "style": "flip_fact"
+      }
+    },
+    {
+      "id": "brain-teasers-logic-box-01",
+      "title": "Three Boxes",
+      "topic": "Brain Teasers",
+      "subtopics": [
+        "Logic",
+        "Deduction"
+      ],
+      "ageBands": [
+        "6-8",
+        "9-12"
+      ],
+      "tags": [
+        "logic",
+        "deduction"
+      ],
+      "mediaType": "EMOJI",
+      "emoji": "📦",
+      "difficulty": 1,
+      "interaction": "multiple_choice",
+      "estimatedViewSeconds": 12,
+      "challenge": {
+        "prompt": "If the toy is not in A and not in B, where must it be?",
+        "choices": [
+          "A",
+          "B",
+          "C",
+          "Nowhere"
+        ],
+        "answer": "C",
+        "explanation": "With only A, B and C available, C remains."
+      },
+      "animation": {
+        "preset": "float_bounce",
+        "durationMs": 2200,
+        "intensity": "gentle",
+        "loop": true
+      },
+      "reveal": {
+        "prompt": "Choose your answer!",
+        "style": "flip_fact"
+      }
+    },
+    {
+      "id": "brain-teasers-maze-choice-01",
+      "title": "Maze Mind",
+      "topic": "Brain Teasers",
+      "subtopics": [
+        "Spatial Reasoning",
+        "Planning"
+      ],
+      "ageBands": [
+        "6-8",
+        "9-12"
+      ],
+      "tags": [
+        "spatial-reasoning",
+        "planning"
+      ],
+      "mediaType": "EMOJI",
+      "emoji": "🌀",
+      "difficulty": 1,
+      "interaction": "multiple_choice",
+      "estimatedViewSeconds": 12,
+      "challenge": {
+        "prompt": "At a dead end in a maze, what is a useful next move?",
+        "choices": [
+          "Keep pushing",
+          "Go back",
+          "Close eyes",
+          "Jump"
+        ],
+        "answer": "Go back",
+        "explanation": "Backtracking lets you try another path."
+      },
+      "animation": {
+        "preset": "float_bounce",
+        "durationMs": 2200,
+        "intensity": "gentle",
+        "loop": true
+      },
+      "reveal": {
+        "prompt": "Choose your answer!",
+        "style": "flip_fact"
+      }
+    },
+    {
+      "id": "brain-teasers-code-break-01",
+      "title": "Code Breaker",
+      "topic": "Brain Teasers",
+      "subtopics": [
+        "Logic",
+        "Patterns"
+      ],
+      "ageBands": [
+        "6-8",
+        "9-12"
+      ],
+      "tags": [
+        "logic",
+        "patterns"
+      ],
+      "mediaType": "EMOJI",
+      "emoji": "🔐",
+      "difficulty": 1,
+      "interaction": "multiple_choice",
+      "estimatedViewSeconds": 12,
+      "challenge": {
+        "prompt": "If ⭐=2 and 🌙=3, what is ⭐+🌙?",
+        "choices": [
+          "4",
+          "5",
+          "6",
+          "23"
+        ],
+        "answer": "5",
+        "explanation": "2 + 3 = 5."
+      },
+      "animation": {
+        "preset": "float_bounce",
+        "durationMs": 2200,
+        "intensity": "gentle",
+        "loop": true
+      },
+      "reveal": {
+        "prompt": "Choose your answer!",
+        "style": "flip_fact"
+      }
+    },
+    {
+      "id": "brain-teasers-prediction-01",
+      "title": "What Happens Next?",
+      "topic": "Brain Teasers",
+      "subtopics": [
+        "Prediction",
+        "Sequences"
+      ],
+      "ageBands": [
+        "6-8",
+        "9-12"
+      ],
+      "tags": [
+        "prediction",
+        "sequences"
+      ],
+      "mediaType": "EMOJI",
+      "emoji": "🔮",
+      "difficulty": 1,
+      "interaction": "multiple_choice",
+      "estimatedViewSeconds": 12,
+      "challenge": {
+        "prompt": "Day follows night. What usually follows day?",
+        "choices": [
+          "Another day only",
+          "Night",
+          "Winter",
+          "Lunch"
+        ],
+        "answer": "Night",
+        "explanation": "The day-night cycle repeats."
+      },
+      "animation": {
+        "preset": "float_bounce",
+        "durationMs": 2200,
+        "intensity": "gentle",
+        "loop": true
+      },
+      "reveal": {
+        "prompt": "Choose your answer!",
+        "style": "flip_fact"
+      }
+    },
+    {
+      "id": "brain-teasers-sorting-01",
+      "title": "Sort It!",
+      "topic": "Brain Teasers",
+      "subtopics": [
+        "Classification",
+        "Reasoning"
+      ],
+      "ageBands": [
+        "6-8",
+        "9-12"
+      ],
+      "tags": [
+        "classification",
+        "reasoning"
+      ],
+      "mediaType": "EMOJI",
+      "emoji": "🧺",
+      "difficulty": 1,
+      "interaction": "multiple_choice",
+      "estimatedViewSeconds": 12,
+      "challenge": {
+        "prompt": "Which belongs with apple, banana and mango?",
+        "choices": [
+          "Carrot",
+          "Orange",
+          "Chair",
+          "Cloud"
+        ],
+        "answer": "Orange",
+        "explanation": "All four are fruits."
+      },
+      "animation": {
+        "preset": "float_bounce",
+        "durationMs": 2200,
+        "intensity": "gentle",
+        "loop": true
+      },
+      "reveal": {
+        "prompt": "Choose your answer!",
+        "style": "flip_fact"
+      }
+    }
+  ]
+}

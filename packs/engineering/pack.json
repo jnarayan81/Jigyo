@@ -1,0 +1,358 @@
+{
+  "schemaVersion": 3,
+  "packId": "engineering",
+  "name": "Engineering & Machines",
+  "description": "Interactive engineering & machines discovery challenges.",
+  "version": 1,
+  "packEmoji": "⚙️",
+  "ageBands": [
+    "6-8",
+    "9-12"
+  ],
+  "cards": [
+    {
+      "id": "engineering-gear-01",
+      "title": "Gear Up",
+      "topic": "Engineering",
+      "subtopics": [
+        "Machines",
+        "Gears"
+      ],
+      "ageBands": [
+        "6-8",
+        "9-12"
+      ],
+      "tags": [
+        "machines",
+        "gears"
+      ],
+      "mediaType": "EMOJI",
+      "emoji": "⚙️",
+      "difficulty": 2,
+      "interaction": "multiple_choice",
+      "estimatedViewSeconds": 12,
+      "challenge": {
+        "prompt": "When two gears touch, turning one can make the other…",
+        "choices": [
+          "Turn",
+          "Disappear",
+          "Float",
+          "Melt"
+        ],
+        "answer": "Turn",
+        "explanation": "Meshing gear teeth transfer rotational motion."
+      },
+      "animation": {
+        "preset": "float_bounce",
+        "durationMs": 2200,
+        "intensity": "gentle",
+        "loop": true
+      },
+      "reveal": {
+        "prompt": "Choose your answer!",
+        "style": "flip_fact"
+      }
+    },
+    {
+      "id": "engineering-bridge-01",
+      "title": "Bridge Builder",
+      "topic": "Engineering",
+      "subtopics": [
+        "Structures",
+        "Forces"
+      ],
+      "ageBands": [
+        "6-8",
+        "9-12"
+      ],
+      "tags": [
+        "structures",
+        "forces"
+      ],
+      "mediaType": "EMOJI",
+      "emoji": "🌉",
+      "difficulty": 2,
+      "interaction": "multiple_choice",
+      "estimatedViewSeconds": 12,
+      "challenge": {
+        "prompt": "A bridge must safely carry…",
+        "choices": [
+          "Loads",
+          "Clouds only",
+          "Songs",
+          "Shadows"
+        ],
+        "answer": "Loads",
+        "explanation": "Engineers design structures to handle loads and forces."
+      },
+      "animation": {
+        "preset": "float_bounce",
+        "durationMs": 2200,
+        "intensity": "gentle",
+        "loop": true
+      },
+      "reveal": {
+        "prompt": "Choose your answer!",
+        "style": "flip_fact"
+      }
+    },
+    {
+      "id": "engineering-lever-01",
+      "title": "Lever Lift",
+      "topic": "Engineering",
+      "subtopics": [
+        "Simple Machines",
+        "Levers"
+      ],
+      "ageBands": [
+        "6-8",
+        "9-12"
+      ],
+      "tags": [
+        "simple-machines",
+        "levers"
+      ],
+      "mediaType": "EMOJI",
+      "emoji": "🏗️",
+      "difficulty": 2,
+      "interaction": "multiple_choice",
+      "estimatedViewSeconds": 12,
+      "challenge": {
+        "prompt": "A lever can help you move a load using a…",
+        "choices": [
+          "Pivot point",
+          "Rainbow",
+          "Battery only",
+          "Magnet always"
+        ],
+        "answer": "Pivot point",
+        "explanation": "A lever rotates around a fulcrum."
+      },
+      "animation": {
+        "preset": "float_bounce",
+        "durationMs": 2200,
+        "intensity": "gentle",
+        "loop": true
+      },
+      "reveal": {
+        "prompt": "Choose your answer!",
+        "style": "flip_fact"
+      }
+    },
+    {
+      "id": "engineering-pulley-01",
+      "title": "Pulley Power",
+      "topic": "Engineering",
+      "subtopics": [
+        "Simple Machines",
+        "Pulleys"
+      ],
+      "ageBands": [
+        "6-8",
+        "9-12"
+      ],
+      "tags": [
+        "simple-machines",
+        "pulleys"
+      ],
+      "mediaType": "EMOJI",
+      "emoji": "🪝",
+      "difficulty": 2,
+      "interaction": "multiple_choice",
+      "estimatedViewSeconds": 12,
+      "challenge": {
+        "prompt": "Pulleys can help change the direction of a pulling…",
+        "choices": [
+          "Force",
+          "Color",
+          "Sound",
+          "Taste"
+        ],
+        "answer": "Force",
+        "explanation": "A pulley can redirect a tension force."
+      },
+      "animation": {
+        "preset": "float_bounce",
+        "durationMs": 2200,
+        "intensity": "gentle",
+        "loop": true
+      },
+      "reveal": {
+        "prompt": "Choose your answer!",
+        "style": "flip_fact"
+      }
+    },
+    {
+      "id": "engineering-plane-01",
+      "title": "Why Planes Fly",
+      "topic": "Engineering",
+      "subtopics": [
+        "Flight",
+        "Aerodynamics"
+      ],
+      "ageBands": [
+        "6-8",
+        "9-12"
+      ],
+      "tags": [
+        "flight",
+        "aerodynamics"
+      ],
+      "mediaType": "EMOJI",
+      "emoji": "✈️",
+      "difficulty": 2,
+      "interaction": "multiple_choice",
+      "estimatedViewSeconds": 12,
+      "challenge": {
+        "prompt": "Aircraft wings interact with moving…",
+        "choices": [
+          "Air",
+          "Soil",
+          "Lava",
+          "Wood"
+        ],
+        "answer": "Air",
+        "explanation": "Aerodynamic forces arise as wings move through air."
+      },
+      "animation": {
+        "preset": "float_bounce",
+        "durationMs": 2200,
+        "intensity": "gentle",
+        "loop": true
+      },
+      "reveal": {
+        "prompt": "Choose your answer!",
+        "style": "flip_fact"
+      }
+    },
+    {
+      "id": "engineering-robot-01",
+      "title": "Robot Instructions",
+      "topic": "Engineering",
+      "subtopics": [
+        "Robotics",
+        "Programming"
+      ],
+      "ageBands": [
+        "6-8",
+        "9-12"
+      ],
+      "tags": [
+        "robotics",
+        "programming"
+      ],
+      "mediaType": "EMOJI",
+      "emoji": "🤖",
+      "difficulty": 1,
+      "interaction": "multiple_choice",
+      "estimatedViewSeconds": 12,
+      "challenge": {
+        "prompt": "A robot needs instructions to know what actions to…",
+        "choices": [
+          "Perform",
+          "Dream",
+          "Taste",
+          "Grow"
+        ],
+        "answer": "Perform",
+        "explanation": "Programs specify actions and responses."
+      },
+      "animation": {
+        "preset": "float_bounce",
+        "durationMs": 2200,
+        "intensity": "gentle",
+        "loop": true
+      },
+      "reveal": {
+        "prompt": "Choose your answer!",
+        "style": "flip_fact"
+      }
+    },
+    {
+      "id": "engineering-tower-01",
+      "title": "Tall Tower",
+      "topic": "Engineering",
+      "subtopics": [
+        "Structures",
+        "Stability"
+      ],
+      "ageBands": [
+        "6-8",
+        "9-12"
+      ],
+      "tags": [
+        "structures",
+        "stability"
+      ],
+      "mediaType": "EMOJI",
+      "emoji": "🏙️",
+      "difficulty": 2,
+      "interaction": "multiple_choice",
+      "estimatedViewSeconds": 12,
+      "challenge": {
+        "prompt": "A wide, stable base can help a tower resist…",
+        "choices": [
+          "Tipping",
+          "Reading",
+          "Music",
+          "Color"
+        ],
+        "answer": "Tipping",
+        "explanation": "Base geometry affects structural stability."
+      },
+      "animation": {
+        "preset": "float_bounce",
+        "durationMs": 2200,
+        "intensity": "gentle",
+        "loop": true
+      },
+      "reveal": {
+        "prompt": "Choose your answer!",
+        "style": "flip_fact"
+      }
+    },
+    {
+      "id": "engineering-wheel-01",
+      "title": "Wheel & Axle",
+      "topic": "Engineering",
+      "subtopics": [
+        "Simple Machines",
+        "Motion"
+      ],
+      "ageBands": [
+        "6-8",
+        "9-12"
+      ],
+      "tags": [
+        "simple-machines",
+        "motion"
+      ],
+      "mediaType": "EMOJI",
+      "emoji": "🛞",
+      "difficulty": 1,
+      "interaction": "multiple_choice",
+      "estimatedViewSeconds": 12,
+      "challenge": {
+        "prompt": "A wheel rotating around a central rod demonstrates a…",
+        "choices": [
+          "Wheel and axle",
+          "Wedge",
+          "Pulley only",
+          "Spring"
+        ],
+        "answer": "Wheel and axle",
+        "explanation": "The wheel and axle is a classic simple machine."
+      },
+      "animation": {
+        "preset": "float_bounce",
+        "durationMs": 2200,
+        "intensity": "gentle",
+        "loop": true
+      },
+      "reveal": {
+        "prompt": "Choose your answer!",
+        "style": "flip_fact"
+      }
+    }
+  ]
+}

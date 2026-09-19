@@ -1,0 +1,358 @@
+{
+  "schemaVersion": 3,
+  "packId": "earth",
+  "name": "Amazing Earth",
+  "description": "Interactive amazing earth discovery challenges.",
+  "version": 1,
+  "packEmoji": "🌍",
+  "ageBands": [
+    "6-8",
+    "9-12"
+  ],
+  "cards": [
+    {
+      "id": "earth-volcano-01",
+      "title": "Volcano Power",
+      "topic": "Earth",
+      "subtopics": [
+        "Geology",
+        "Volcanoes"
+      ],
+      "ageBands": [
+        "6-8",
+        "9-12"
+      ],
+      "tags": [
+        "geology",
+        "volcanoes"
+      ],
+      "mediaType": "EMOJI",
+      "emoji": "🌋",
+      "difficulty": 2,
+      "interaction": "multiple_choice",
+      "estimatedViewSeconds": 12,
+      "challenge": {
+        "prompt": "What is molten rock called while it is below Earth's surface?",
+        "choices": [
+          "Lava",
+          "Magma",
+          "Steam",
+          "Sand"
+        ],
+        "answer": "Magma",
+        "explanation": "Below the surface it is magma; at the surface it is called lava."
+      },
+      "animation": {
+        "preset": "float_bounce",
+        "durationMs": 2200,
+        "intensity": "gentle",
+        "loop": true
+      },
+      "reveal": {
+        "prompt": "Choose your answer!",
+        "style": "flip_fact"
+      }
+    },
+    {
+      "id": "earth-cloud-01",
+      "title": "Cloud Detective",
+      "topic": "Earth",
+      "subtopics": [
+        "Weather",
+        "Water Cycle"
+      ],
+      "ageBands": [
+        "6-8",
+        "9-12"
+      ],
+      "tags": [
+        "weather",
+        "water-cycle"
+      ],
+      "mediaType": "EMOJI",
+      "emoji": "☁️",
+      "difficulty": 2,
+      "interaction": "multiple_choice",
+      "estimatedViewSeconds": 12,
+      "challenge": {
+        "prompt": "Clouds are made mostly from tiny…",
+        "choices": [
+          "Rocks",
+          "Water droplets or ice crystals",
+          "Leaves",
+          "Bubbles"
+        ],
+        "answer": "Water droplets or ice crystals",
+        "explanation": "Clouds form from condensed water and ice."
+      },
+      "animation": {
+        "preset": "float_bounce",
+        "durationMs": 2200,
+        "intensity": "gentle",
+        "loop": true
+      },
+      "reveal": {
+        "prompt": "Choose your answer!",
+        "style": "flip_fact"
+      }
+    },
+    {
+      "id": "earth-earthquake-01",
+      "title": "Shaky Earth",
+      "topic": "Earth",
+      "subtopics": [
+        "Geology",
+        "Earthquakes"
+      ],
+      "ageBands": [
+        "6-8",
+        "9-12"
+      ],
+      "tags": [
+        "geology",
+        "earthquakes"
+      ],
+      "mediaType": "EMOJI",
+      "emoji": "🌎",
+      "difficulty": 3,
+      "interaction": "multiple_choice",
+      "estimatedViewSeconds": 12,
+      "challenge": {
+        "prompt": "Earthquakes often happen when rocks suddenly move along a…",
+        "choices": [
+          "Rainbow",
+          "Fault",
+          "River",
+          "Cloud"
+        ],
+        "answer": "Fault",
+        "explanation": "Sudden movement along faults can release seismic energy."
+      },
+      "animation": {
+        "preset": "float_bounce",
+        "durationMs": 2200,
+        "intensity": "gentle",
+        "loop": true
+      },
+      "reveal": {
+        "prompt": "Choose your answer!",
+        "style": "flip_fact"
+      }
+    },
+    {
+      "id": "earth-ocean-01",
+      "title": "Deep Ocean",
+      "topic": "Earth",
+      "subtopics": [
+        "Oceans",
+        "Habitats"
+      ],
+      "ageBands": [
+        "6-8",
+        "9-12"
+      ],
+      "tags": [
+        "oceans",
+        "habitats"
+      ],
+      "mediaType": "EMOJI",
+      "emoji": "🌊",
+      "difficulty": 1,
+      "interaction": "multiple_choice",
+      "estimatedViewSeconds": 12,
+      "challenge": {
+        "prompt": "Which covers most of Earth's surface?",
+        "choices": [
+          "Forests",
+          "Oceans",
+          "Deserts",
+          "Cities"
+        ],
+        "answer": "Oceans",
+        "explanation": "Oceans cover most of Earth's surface."
+      },
+      "animation": {
+        "preset": "float_bounce",
+        "durationMs": 2200,
+        "intensity": "gentle",
+        "loop": true
+      },
+      "reveal": {
+        "prompt": "Choose your answer!",
+        "style": "flip_fact"
+      }
+    },
+    {
+      "id": "earth-crystal-01",
+      "title": "Crystal Shapes",
+      "topic": "Earth",
+      "subtopics": [
+        "Geology",
+        "Minerals"
+      ],
+      "ageBands": [
+        "6-8",
+        "9-12"
+      ],
+      "tags": [
+        "geology",
+        "minerals"
+      ],
+      "mediaType": "EMOJI",
+      "emoji": "💎",
+      "difficulty": 2,
+      "interaction": "multiple_choice",
+      "estimatedViewSeconds": 12,
+      "challenge": {
+        "prompt": "Crystals often grow with repeating…",
+        "choices": [
+          "Patterns",
+          "Songs",
+          "Smells",
+          "Footprints"
+        ],
+        "answer": "Patterns",
+        "explanation": "Their atoms can form orderly repeating structures."
+      },
+      "animation": {
+        "preset": "float_bounce",
+        "durationMs": 2200,
+        "intensity": "gentle",
+        "loop": true
+      },
+      "reveal": {
+        "prompt": "Choose your answer!",
+        "style": "flip_fact"
+      }
+    },
+    {
+      "id": "earth-water-cycle-01",
+      "title": "Water's Journey",
+      "topic": "Earth",
+      "subtopics": [
+        "Weather",
+        "Water Cycle"
+      ],
+      "ageBands": [
+        "6-8",
+        "9-12"
+      ],
+      "tags": [
+        "weather",
+        "water-cycle"
+      ],
+      "mediaType": "EMOJI",
+      "emoji": "💧",
+      "difficulty": 2,
+      "interaction": "multiple_choice",
+      "estimatedViewSeconds": 12,
+      "challenge": {
+        "prompt": "Liquid water changing into water vapor is called…",
+        "choices": [
+          "Freezing",
+          "Evaporation",
+          "Melting",
+          "Erosion"
+        ],
+        "answer": "Evaporation",
+        "explanation": "Evaporation changes liquid water into vapor."
+      },
+      "animation": {
+        "preset": "float_bounce",
+        "durationMs": 2200,
+        "intensity": "gentle",
+        "loop": true
+      },
+      "reveal": {
+        "prompt": "Choose your answer!",
+        "style": "flip_fact"
+      }
+    },
+    {
+      "id": "earth-cave-01",
+      "title": "Cave Explorer",
+      "topic": "Earth",
+      "subtopics": [
+        "Geology",
+        "Caves"
+      ],
+      "ageBands": [
+        "6-8",
+        "9-12"
+      ],
+      "tags": [
+        "geology",
+        "caves"
+      ],
+      "mediaType": "EMOJI",
+      "emoji": "🪨",
+      "difficulty": 2,
+      "interaction": "multiple_choice",
+      "estimatedViewSeconds": 12,
+      "challenge": {
+        "prompt": "Some limestone caves are slowly shaped by…",
+        "choices": [
+          "Water",
+          "Moonlight",
+          "Music",
+          "Magnets"
+        ],
+        "answer": "Water",
+        "explanation": "Slightly acidic water can dissolve limestone over long periods."
+      },
+      "animation": {
+        "preset": "float_bounce",
+        "durationMs": 2200,
+        "intensity": "gentle",
+        "loop": true
+      },
+      "reveal": {
+        "prompt": "Choose your answer!",
+        "style": "flip_fact"
+      }
+    },
+    {
+      "id": "earth-aurora-01",
+      "title": "Sky Lights",
+      "topic": "Earth",
+      "subtopics": [
+        "Atmosphere",
+        "Aurora"
+      ],
+      "ageBands": [
+        "6-8",
+        "9-12"
+      ],
+      "tags": [
+        "atmosphere",
+        "aurora"
+      ],
+      "mediaType": "EMOJI",
+      "emoji": "🌌",
+      "difficulty": 3,
+      "interaction": "multiple_choice",
+      "estimatedViewSeconds": 12,
+      "challenge": {
+        "prompt": "Auroras are linked to particles arriving from the…",
+        "choices": [
+          "Sun",
+          "Ocean",
+          "Moon's rocks",
+          "Trees"
+        ],
+        "answer": "Sun",
+        "explanation": "Charged particles from the Sun interact with Earth's upper atmosphere."
+      },
+      "animation": {
+        "preset": "float_bounce",
+        "durationMs": 2200,
+        "intensity": "gentle",
+        "loop": true
+      },
+      "reveal": {
+        "prompt": "Choose your answer!",
+        "style": "flip_fact"
+      }
+    }
+  ]
+}

@@ -1,0 +1,358 @@
+{
+  "schemaVersion": 3,
+  "packId": "human-body",
+  "name": "Human Body",
+  "description": "Interactive human body discovery challenges.",
+  "version": 1,
+  "packEmoji": "❤️",
+  "ageBands": [
+    "6-8",
+    "9-12"
+  ],
+  "cards": [
+    {
+      "id": "human-body-heart-01",
+      "title": "Heartbeat",
+      "topic": "Human Body",
+      "subtopics": [
+        "Circulation",
+        "Heart"
+      ],
+      "ageBands": [
+        "6-8",
+        "9-12"
+      ],
+      "tags": [
+        "circulation",
+        "heart"
+      ],
+      "mediaType": "EMOJI",
+      "emoji": "❤️",
+      "difficulty": 1,
+      "interaction": "multiple_choice",
+      "estimatedViewSeconds": 12,
+      "challenge": {
+        "prompt": "What does the heart mainly do?",
+        "choices": [
+          "Pump blood",
+          "Make bones",
+          "Store air",
+          "See light"
+        ],
+        "answer": "Pump blood",
+        "explanation": "The heart pumps blood through the circulatory system."
+      },
+      "animation": {
+        "preset": "float_bounce",
+        "durationMs": 2200,
+        "intensity": "gentle",
+        "loop": true
+      },
+      "reveal": {
+        "prompt": "Choose your answer!",
+        "style": "flip_fact"
+      }
+    },
+    {
+      "id": "human-body-lungs-01",
+      "title": "Breathing Lab",
+      "topic": "Human Body",
+      "subtopics": [
+        "Respiration",
+        "Lungs"
+      ],
+      "ageBands": [
+        "6-8",
+        "9-12"
+      ],
+      "tags": [
+        "respiration",
+        "lungs"
+      ],
+      "mediaType": "EMOJI",
+      "emoji": "🫁",
+      "difficulty": 1,
+      "interaction": "multiple_choice",
+      "estimatedViewSeconds": 12,
+      "challenge": {
+        "prompt": "Which organs exchange oxygen and carbon dioxide with the air?",
+        "choices": [
+          "Lungs",
+          "Knees",
+          "Teeth",
+          "Fingers"
+        ],
+        "answer": "Lungs",
+        "explanation": "Gas exchange occurs in the lungs."
+      },
+      "animation": {
+        "preset": "float_bounce",
+        "durationMs": 2200,
+        "intensity": "gentle",
+        "loop": true
+      },
+      "reveal": {
+        "prompt": "Choose your answer!",
+        "style": "flip_fact"
+      }
+    },
+    {
+      "id": "human-body-bones-01",
+      "title": "Bone Builder",
+      "topic": "Human Body",
+      "subtopics": [
+        "Skeleton",
+        "Bones"
+      ],
+      "ageBands": [
+        "6-8",
+        "9-12"
+      ],
+      "tags": [
+        "skeleton",
+        "bones"
+      ],
+      "mediaType": "EMOJI",
+      "emoji": "🦴",
+      "difficulty": 1,
+      "interaction": "multiple_choice",
+      "estimatedViewSeconds": 12,
+      "challenge": {
+        "prompt": "Your skeleton helps give your body…",
+        "choices": [
+          "Support",
+          "Sunlight",
+          "Wi-Fi",
+          "Rain"
+        ],
+        "answer": "Support",
+        "explanation": "Bones support the body and protect organs."
+      },
+      "animation": {
+        "preset": "float_bounce",
+        "durationMs": 2200,
+        "intensity": "gentle",
+        "loop": true
+      },
+      "reveal": {
+        "prompt": "Choose your answer!",
+        "style": "flip_fact"
+      }
+    },
+    {
+      "id": "human-body-muscle-01",
+      "title": "Muscle Motion",
+      "topic": "Human Body",
+      "subtopics": [
+        "Muscles",
+        "Movement"
+      ],
+      "ageBands": [
+        "6-8",
+        "9-12"
+      ],
+      "tags": [
+        "muscles",
+        "movement"
+      ],
+      "mediaType": "EMOJI",
+      "emoji": "💪",
+      "difficulty": 2,
+      "interaction": "multiple_choice",
+      "estimatedViewSeconds": 12,
+      "challenge": {
+        "prompt": "Muscles help move bones by…",
+        "choices": [
+          "Contracting",
+          "Glowing",
+          "Melting",
+          "Floating"
+        ],
+        "answer": "Contracting",
+        "explanation": "Muscle contraction produces force."
+      },
+      "animation": {
+        "preset": "float_bounce",
+        "durationMs": 2200,
+        "intensity": "gentle",
+        "loop": true
+      },
+      "reveal": {
+        "prompt": "Choose your answer!",
+        "style": "flip_fact"
+      }
+    },
+    {
+      "id": "human-body-senses-01",
+      "title": "Sense Detective",
+      "topic": "Human Body",
+      "subtopics": [
+        "Senses",
+        "Nervous System"
+      ],
+      "ageBands": [
+        "6-8",
+        "9-12"
+      ],
+      "tags": [
+        "senses",
+        "nervous-system"
+      ],
+      "mediaType": "EMOJI",
+      "emoji": "👃",
+      "difficulty": 1,
+      "interaction": "multiple_choice",
+      "estimatedViewSeconds": 12,
+      "challenge": {
+        "prompt": "Which sense helps detect odors?",
+        "choices": [
+          "Smell",
+          "Hearing",
+          "Balance",
+          "Touch"
+        ],
+        "answer": "Smell",
+        "explanation": "Receptors in the nose detect airborne chemicals."
+      },
+      "animation": {
+        "preset": "float_bounce",
+        "durationMs": 2200,
+        "intensity": "gentle",
+        "loop": true
+      },
+      "reveal": {
+        "prompt": "Choose your answer!",
+        "style": "flip_fact"
+      }
+    },
+    {
+      "id": "human-body-brain-01",
+      "title": "Brain Signals",
+      "topic": "Human Body",
+      "subtopics": [
+        "Brain",
+        "Nervous System"
+      ],
+      "ageBands": [
+        "6-8",
+        "9-12"
+      ],
+      "tags": [
+        "brain",
+        "nervous-system"
+      ],
+      "mediaType": "EMOJI",
+      "emoji": "🧠",
+      "difficulty": 2,
+      "interaction": "multiple_choice",
+      "estimatedViewSeconds": 12,
+      "challenge": {
+        "prompt": "The brain communicates with the body through the…",
+        "choices": [
+          "Nervous system",
+          "Clouds",
+          "Roots",
+          "Rivers"
+        ],
+        "answer": "Nervous system",
+        "explanation": "Nerves carry signals between the brain, spinal cord and body."
+      },
+      "animation": {
+        "preset": "float_bounce",
+        "durationMs": 2200,
+        "intensity": "gentle",
+        "loop": true
+      },
+      "reveal": {
+        "prompt": "Choose your answer!",
+        "style": "flip_fact"
+      }
+    },
+    {
+      "id": "human-body-digestion-01",
+      "title": "Food Journey",
+      "topic": "Human Body",
+      "subtopics": [
+        "Digestion",
+        "Nutrition"
+      ],
+      "ageBands": [
+        "6-8",
+        "9-12"
+      ],
+      "tags": [
+        "digestion",
+        "nutrition"
+      ],
+      "mediaType": "EMOJI",
+      "emoji": "🍎",
+      "difficulty": 2,
+      "interaction": "multiple_choice",
+      "estimatedViewSeconds": 12,
+      "challenge": {
+        "prompt": "Digestion helps break food into substances the body can…",
+        "choices": [
+          "Use",
+          "Paint",
+          "Freeze forever",
+          "Turn into metal"
+        ],
+        "answer": "Use",
+        "explanation": "Digestion makes nutrients available for absorption."
+      },
+      "animation": {
+        "preset": "float_bounce",
+        "durationMs": 2200,
+        "intensity": "gentle",
+        "loop": true
+      },
+      "reveal": {
+        "prompt": "Choose your answer!",
+        "style": "flip_fact"
+      }
+    },
+    {
+      "id": "human-body-skin-01",
+      "title": "Super Skin",
+      "topic": "Human Body",
+      "subtopics": [
+        "Skin",
+        "Senses"
+      ],
+      "ageBands": [
+        "6-8",
+        "9-12"
+      ],
+      "tags": [
+        "skin",
+        "senses"
+      ],
+      "mediaType": "EMOJI",
+      "emoji": "✋",
+      "difficulty": 2,
+      "interaction": "multiple_choice",
+      "estimatedViewSeconds": 12,
+      "challenge": {
+        "prompt": "Skin helps protect the body and also lets us sense…",
+        "choices": [
+          "Touch",
+          "Starlight only",
+          "Gravity only",
+          "Numbers"
+        ],
+        "answer": "Touch",
+        "explanation": "Sensory receptors in skin respond to touch and other stimuli."
+      },
+      "animation": {
+        "preset": "float_bounce",
+        "durationMs": 2200,
+        "intensity": "gentle",
+        "loop": true
+      },
+      "reveal": {
+        "prompt": "Choose your answer!",
+        "style": "flip_fact"
+      }
+    }
+  ]
+}

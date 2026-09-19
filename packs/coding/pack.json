@@ -1,0 +1,358 @@
+{
+  "schemaVersion": 3,
+  "packId": "coding",
+  "name": "Coding Thinking",
+  "description": "Interactive coding thinking discovery challenges.",
+  "version": 1,
+  "packEmoji": "💻",
+  "ageBands": [
+    "6-8",
+    "9-12"
+  ],
+  "cards": [
+    {
+      "id": "coding-sequence-01",
+      "title": "Robot Steps",
+      "topic": "Coding",
+      "subtopics": [
+        "Algorithms",
+        "Sequences"
+      ],
+      "ageBands": [
+        "6-8",
+        "9-12"
+      ],
+      "tags": [
+        "algorithms",
+        "sequences"
+      ],
+      "mediaType": "EMOJI",
+      "emoji": "🤖",
+      "difficulty": 1,
+      "interaction": "multiple_choice",
+      "estimatedViewSeconds": 12,
+      "challenge": {
+        "prompt": "A robot must move forward, turn right, then stop. What matters most?",
+        "choices": [
+          "Order",
+          "Color",
+          "Weather",
+          "Volume"
+        ],
+        "answer": "Order",
+        "explanation": "Instructions in an algorithm often need the correct sequence."
+      },
+      "animation": {
+        "preset": "float_bounce",
+        "durationMs": 2200,
+        "intensity": "gentle",
+        "loop": true
+      },
+      "reveal": {
+        "prompt": "Choose your answer!",
+        "style": "flip_fact"
+      }
+    },
+    {
+      "id": "coding-loop-01",
+      "title": "Loop-de-Loop",
+      "topic": "Coding",
+      "subtopics": [
+        "Loops",
+        "Algorithms"
+      ],
+      "ageBands": [
+        "6-8",
+        "9-12"
+      ],
+      "tags": [
+        "loops",
+        "algorithms"
+      ],
+      "mediaType": "EMOJI",
+      "emoji": "🔁",
+      "difficulty": 1,
+      "interaction": "multiple_choice",
+      "estimatedViewSeconds": 12,
+      "challenge": {
+        "prompt": "If an action repeats 5 times, which coding idea is useful?",
+        "choices": [
+          "Loop",
+          "Delete everything",
+          "Random guess",
+          "Paint"
+        ],
+        "answer": "Loop",
+        "explanation": "Loops repeat instructions."
+      },
+      "animation": {
+        "preset": "float_bounce",
+        "durationMs": 2200,
+        "intensity": "gentle",
+        "loop": true
+      },
+      "reveal": {
+        "prompt": "Choose your answer!",
+        "style": "flip_fact"
+      }
+    },
+    {
+      "id": "coding-condition-01",
+      "title": "If This, Then That",
+      "topic": "Coding",
+      "subtopics": [
+        "Conditions",
+        "Logic"
+      ],
+      "ageBands": [
+        "6-8",
+        "9-12"
+      ],
+      "tags": [
+        "conditions",
+        "logic"
+      ],
+      "mediaType": "EMOJI",
+      "emoji": "🚦",
+      "difficulty": 1,
+      "interaction": "multiple_choice",
+      "estimatedViewSeconds": 12,
+      "challenge": {
+        "prompt": "IF the light is green, THEN…",
+        "choices": [
+          "Go when safe",
+          "Always sleep",
+          "Turn into a car",
+          "Erase road"
+        ],
+        "answer": "Go when safe",
+        "explanation": "Conditions select actions based on whether something is true."
+      },
+      "animation": {
+        "preset": "float_bounce",
+        "durationMs": 2200,
+        "intensity": "gentle",
+        "loop": true
+      },
+      "reveal": {
+        "prompt": "Choose your answer!",
+        "style": "flip_fact"
+      }
+    },
+    {
+      "id": "coding-debug-01",
+      "title": "Bug Hunter",
+      "topic": "Coding",
+      "subtopics": [
+        "Debugging",
+        "Problem Solving"
+      ],
+      "ageBands": [
+        "6-8",
+        "9-12"
+      ],
+      "tags": [
+        "debugging",
+        "problem-solving"
+      ],
+      "mediaType": "EMOJI",
+      "emoji": "🐞",
+      "difficulty": 1,
+      "interaction": "multiple_choice",
+      "estimatedViewSeconds": 12,
+      "challenge": {
+        "prompt": "A program does the wrong thing. What should you look for?",
+        "choices": [
+          "A bug",
+          "A sandwich",
+          "A cloud",
+          "A fossil"
+        ],
+        "answer": "A bug",
+        "explanation": "Debugging means finding and fixing problems in code."
+      },
+      "animation": {
+        "preset": "float_bounce",
+        "durationMs": 2200,
+        "intensity": "gentle",
+        "loop": true
+      },
+      "reveal": {
+        "prompt": "Choose your answer!",
+        "style": "flip_fact"
+      }
+    },
+    {
+      "id": "coding-algorithm-01",
+      "title": "Treasure Steps",
+      "topic": "Coding",
+      "subtopics": [
+        "Algorithms",
+        "Planning"
+      ],
+      "ageBands": [
+        "6-8",
+        "9-12"
+      ],
+      "tags": [
+        "algorithms",
+        "planning"
+      ],
+      "mediaType": "EMOJI",
+      "emoji": "🗺️",
+      "difficulty": 2,
+      "interaction": "multiple_choice",
+      "estimatedViewSeconds": 12,
+      "challenge": {
+        "prompt": "A clear step-by-step method for solving a task is an…",
+        "choices": [
+          "Algorithm",
+          "Animal",
+          "Atom",
+          "Echo"
+        ],
+        "answer": "Algorithm",
+        "explanation": "An algorithm is a defined sequence of steps."
+      },
+      "animation": {
+        "preset": "float_bounce",
+        "durationMs": 2200,
+        "intensity": "gentle",
+        "loop": true
+      },
+      "reveal": {
+        "prompt": "Choose your answer!",
+        "style": "flip_fact"
+      }
+    },
+    {
+      "id": "coding-binary-01",
+      "title": "Two Symbols",
+      "topic": "Coding",
+      "subtopics": [
+        "Data",
+        "Binary"
+      ],
+      "ageBands": [
+        "6-8",
+        "9-12"
+      ],
+      "tags": [
+        "data",
+        "binary"
+      ],
+      "mediaType": "EMOJI",
+      "emoji": "0️⃣",
+      "difficulty": 2,
+      "interaction": "multiple_choice",
+      "estimatedViewSeconds": 12,
+      "challenge": {
+        "prompt": "Binary uses how many basic digit symbols?",
+        "choices": [
+          "2",
+          "3",
+          "8",
+          "10"
+        ],
+        "answer": "2",
+        "explanation": "Binary notation uses 0 and 1."
+      },
+      "animation": {
+        "preset": "float_bounce",
+        "durationMs": 2200,
+        "intensity": "gentle",
+        "loop": true
+      },
+      "reveal": {
+        "prompt": "Choose your answer!",
+        "style": "flip_fact"
+      }
+    },
+    {
+      "id": "coding-event-01",
+      "title": "Button Event",
+      "topic": "Coding",
+      "subtopics": [
+        "Events",
+        "Interaction"
+      ],
+      "ageBands": [
+        "6-8",
+        "9-12"
+      ],
+      "tags": [
+        "events",
+        "interaction"
+      ],
+      "mediaType": "EMOJI",
+      "emoji": "🔘",
+      "difficulty": 2,
+      "interaction": "multiple_choice",
+      "estimatedViewSeconds": 12,
+      "challenge": {
+        "prompt": "In an app, tapping a button can trigger an…",
+        "choices": [
+          "Event",
+          "Earthquake",
+          "Eclipse",
+          "Egg"
+        ],
+        "answer": "Event",
+        "explanation": "Event-driven programs respond to actions such as taps."
+      },
+      "animation": {
+        "preset": "float_bounce",
+        "durationMs": 2200,
+        "intensity": "gentle",
+        "loop": true
+      },
+      "reveal": {
+        "prompt": "Choose your answer!",
+        "style": "flip_fact"
+      }
+    },
+    {
+      "id": "coding-decompose-01",
+      "title": "Break It Down",
+      "topic": "Coding",
+      "subtopics": [
+        "Problem Solving",
+        "Decomposition"
+      ],
+      "ageBands": [
+        "6-8",
+        "9-12"
+      ],
+      "tags": [
+        "problem-solving",
+        "decomposition"
+      ],
+      "mediaType": "EMOJI",
+      "emoji": "🧩",
+      "difficulty": 1,
+      "interaction": "multiple_choice",
+      "estimatedViewSeconds": 12,
+      "challenge": {
+        "prompt": "A huge problem feels difficult. A useful strategy is to…",
+        "choices": [
+          "Break it into smaller parts",
+          "Ignore it forever",
+          "Make it bigger",
+          "Remove all instructions"
+        ],
+        "answer": "Break it into smaller parts",
+        "explanation": "Decomposition makes complex problems easier to reason about."
+      },
+      "animation": {
+        "preset": "float_bounce",
+        "durationMs": 2200,
+        "intensity": "gentle",
+        "loop": true
+      },
+      "reveal": {
+        "prompt": "Choose your answer!",
+        "style": "flip_fact"
+      }
+    }
+  ]
+}
