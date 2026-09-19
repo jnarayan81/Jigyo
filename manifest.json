@@ -1,7 +1,7 @@
 {
   "schemaVersion": 3,
   "app": "Jigyo",
-  "contentVersion": 3,
+  "contentVersion": 4,
   "packs": [
     {
       "id": "animals",
@@ -97,6 +97,14 @@
       "version": 1,
       "url": "packs/world-wonders/pack.json",
       "emoji": "🏛️",
+      "cardCount": 8
+    },
+    {
+      "id": "video-discovery",
+      "name": "Animated Discoveries",
+      "version": 1,
+      "url": "packs/video-discovery/pack.json",
+      "emoji": "🎬",
       "cardCount": 8
     }
   ]
