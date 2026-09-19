@@ -1,0 +1,295 @@
+{
+  "schemaVersion": 2,
+  "packId": "animals",
+  "name": "Amazing Animals",
+  "description": "Animated discovery cards about animals.",
+  "version": 2,
+  "packEmoji": "🦁",
+  "ageBands": [
+    "4-5",
+    "6-8",
+    "9-12"
+  ],
+  "cards": [
+    {
+      "id": "animals-lion-01",
+      "title": "Lion Pride",
+      "topic": "Animals",
+      "subtopics": [
+        "Mammals",
+        "Big Cats"
+      ],
+      "ageBands": [
+        "4-5",
+        "6-8",
+        "9-12"
+      ],
+      "tags": [
+        "lion",
+        "savanna",
+        "pride"
+      ],
+      "mediaType": "EMOJI",
+      "emoji": "🦁",
+      "funFact": "Lions often live in social groups called prides.",
+      "difficulty": 2,
+      "interaction": "tap_to_reveal",
+      "estimatedViewSeconds": 8,
+      "animation": {
+        "preset": "float_bounce",
+        "durationMs": 2400,
+        "intensity": "gentle",
+        "loop": true
+      },
+      "reveal": {
+        "prompt": "Tap to discover!",
+        "style": "flip_fact"
+      }
+    },
+    {
+      "id": "animals-elephant-01",
+      "title": "Elephant Explorer",
+      "topic": "Animals",
+      "subtopics": [
+        "Mammals",
+        "Savanna"
+      ],
+      "ageBands": [
+        "4-5",
+        "6-8",
+        "9-12"
+      ],
+      "tags": [
+        "elephant",
+        "trunk",
+        "savanna"
+      ],
+      "mediaType": "EMOJI",
+      "emoji": "🐘",
+      "funFact": "An elephant's trunk can help it smell, drink, breathe and pick things up.",
+      "difficulty": 2,
+      "interaction": "tap_to_reveal",
+      "estimatedViewSeconds": 8,
+      "animation": {
+        "preset": "float_bounce",
+        "durationMs": 2400,
+        "intensity": "gentle",
+        "loop": true
+      },
+      "reveal": {
+        "prompt": "Tap to discover!",
+        "style": "flip_fact"
+      }
+    },
+    {
+      "id": "animals-penguin-01",
+      "title": "Penguin Waddle",
+      "topic": "Animals",
+      "subtopics": [
+        "Birds",
+        "Polar"
+      ],
+      "ageBands": [
+        "4-5",
+        "6-8",
+        "9-12"
+      ],
+      "tags": [
+        "penguin",
+        "antarctica",
+        "swimming"
+      ],
+      "mediaType": "EMOJI",
+      "emoji": "🐧",
+      "funFact": "Penguins are birds that cannot fly, but they are excellent swimmers.",
+      "difficulty": 1,
+      "interaction": "tap_to_reveal",
+      "estimatedViewSeconds": 8,
+      "animation": {
+        "preset": "float_bounce",
+        "durationMs": 2400,
+        "intensity": "gentle",
+        "loop": true
+      },
+      "reveal": {
+        "prompt": "Tap to discover!",
+        "style": "flip_fact"
+      }
+    },
+    {
+      "id": "animals-dolphin-01",
+      "title": "Dolphin Clicks",
+      "topic": "Animals",
+      "subtopics": [
+        "Marine Life",
+        "Mammals"
+      ],
+      "ageBands": [
+        "4-5",
+        "6-8",
+        "9-12"
+      ],
+      "tags": [
+        "dolphin",
+        "ocean",
+        "sound"
+      ],
+      "mediaType": "EMOJI",
+      "emoji": "🐬",
+      "funFact": "Dolphins use clicks and whistles to communicate and explore their surroundings.",
+      "difficulty": 2,
+      "interaction": "tap_to_reveal",
+      "estimatedViewSeconds": 8,
+      "animation": {
+        "preset": "float_bounce",
+        "durationMs": 2400,
+        "intensity": "gentle",
+        "loop": true
+      },
+      "reveal": {
+        "prompt": "Tap to discover!",
+        "style": "flip_fact"
+      }
+    },
+    {
+      "id": "animals-butterfly-01",
+      "title": "Butterfly Wings",
+      "topic": "Animals",
+      "subtopics": [
+        "Insects",
+        "Life Cycles"
+      ],
+      "ageBands": [
+        "4-5",
+        "6-8",
+        "9-12"
+      ],
+      "tags": [
+        "butterfly",
+        "wings",
+        "metamorphosis"
+      ],
+      "mediaType": "EMOJI",
+      "emoji": "🦋",
+      "funFact": "Butterflies begin life as caterpillars before changing through metamorphosis.",
+      "difficulty": 2,
+      "interaction": "tap_to_reveal",
+      "estimatedViewSeconds": 8,
+      "animation": {
+        "preset": "float_bounce",
+        "durationMs": 2400,
+        "intensity": "gentle",
+        "loop": true
+      },
+      "reveal": {
+        "prompt": "Tap to discover!",
+        "style": "flip_fact"
+      }
+    },
+    {
+      "id": "animals-fox-01",
+      "title": "Clever Fox",
+      "topic": "Animals",
+      "subtopics": [
+        "Mammals",
+        "Woodland"
+      ],
+      "ageBands": [
+        "4-5",
+        "6-8",
+        "9-12"
+      ],
+      "tags": [
+        "fox",
+        "woodland",
+        "hearing"
+      ],
+      "mediaType": "EMOJI",
+      "emoji": "🦊",
+      "funFact": "Foxes use sensitive hearing to help locate small animals.",
+      "difficulty": 2,
+      "interaction": "tap_to_reveal",
+      "estimatedViewSeconds": 8,
+      "animation": {
+        "preset": "float_bounce",
+        "durationMs": 2400,
+        "intensity": "gentle",
+        "loop": true
+      },
+      "reveal": {
+        "prompt": "Tap to discover!",
+        "style": "flip_fact"
+      }
+    },
+    {
+      "id": "animals-octopus-01",
+      "title": "Octopus Puzzle",
+      "topic": "Animals",
+      "subtopics": [
+        "Marine Life",
+        "Invertebrates"
+      ],
+      "ageBands": [
+        "4-5",
+        "6-8",
+        "9-12"
+      ],
+      "tags": [
+        "octopus",
+        "ocean",
+        "camouflage"
+      ],
+      "mediaType": "EMOJI",
+      "emoji": "🐙",
+      "funFact": "Octopuses can change their appearance to help hide in their surroundings.",
+      "difficulty": 3,
+      "interaction": "tap_to_reveal",
+      "estimatedViewSeconds": 8,
+      "animation": {
+        "preset": "float_bounce",
+        "durationMs": 2400,
+        "intensity": "gentle",
+        "loop": true
+      },
+      "reveal": {
+        "prompt": "Tap to discover!",
+        "style": "flip_fact"
+      }
+    },
+    {
+      "id": "animals-bee-01",
+      "title": "Busy Bee",
+      "topic": "Animals",
+      "subtopics": [
+        "Insects",
+        "Pollinators"
+      ],
+      "ageBands": [
+        "4-5",
+        "6-8",
+        "9-12"
+      ],
+      "tags": [
+        "bee",
+        "pollination",
+        "flowers"
+      ],
+      "mediaType": "EMOJI",
+      "emoji": "🐝",
+      "funFact": "Bees move pollen between flowers while collecting nectar and pollen.",
+      "difficulty": 2,
+      "interaction": "tap_to_reveal",
+      "estimatedViewSeconds": 8,
+      "animation": {
+        "preset": "float_bounce",
+        "durationMs": 2400,
+        "intensity": "gentle",
+        "loop": true
+      },
+      "reveal": {
+        "prompt": "Tap to discover!",
+        "style": "flip_fact"
+      }
+    }
+  ]
+}

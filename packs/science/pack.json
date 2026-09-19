@@ -1,0 +1,295 @@
+{
+  "schemaVersion": 2,
+  "packId": "science",
+  "name": "Little Scientists",
+  "description": "Animated discovery cards about science.",
+  "version": 2,
+  "packEmoji": "🔬",
+  "ageBands": [
+    "4-5",
+    "6-8",
+    "9-12"
+  ],
+  "cards": [
+    {
+      "id": "science-microscope-01",
+      "title": "Tiny Worlds",
+      "topic": "Science",
+      "subtopics": [
+        "Biology",
+        "Tools"
+      ],
+      "ageBands": [
+        "4-5",
+        "6-8",
+        "9-12"
+      ],
+      "tags": [
+        "microscope",
+        "cells",
+        "biology"
+      ],
+      "mediaType": "EMOJI",
+      "emoji": "🔬",
+      "funFact": "Microscopes help scientists see structures too small to see clearly with unaided eyes.",
+      "difficulty": 2,
+      "interaction": "tap_to_reveal",
+      "estimatedViewSeconds": 8,
+      "animation": {
+        "preset": "float_bounce",
+        "durationMs": 2400,
+        "intensity": "gentle",
+        "loop": true
+      },
+      "reveal": {
+        "prompt": "Tap to discover!",
+        "style": "flip_fact"
+      }
+    },
+    {
+      "id": "science-magnet-01",
+      "title": "Magnet Mystery",
+      "topic": "Science",
+      "subtopics": [
+        "Physics",
+        "Magnetism"
+      ],
+      "ageBands": [
+        "4-5",
+        "6-8",
+        "9-12"
+      ],
+      "tags": [
+        "magnet",
+        "physics",
+        "force"
+      ],
+      "mediaType": "EMOJI",
+      "emoji": "🧲",
+      "funFact": "Magnets can attract materials containing iron and can push or pull other magnets.",
+      "difficulty": 2,
+      "interaction": "tap_to_reveal",
+      "estimatedViewSeconds": 8,
+      "animation": {
+        "preset": "float_bounce",
+        "durationMs": 2400,
+        "intensity": "gentle",
+        "loop": true
+      },
+      "reveal": {
+        "prompt": "Tap to discover!",
+        "style": "flip_fact"
+      }
+    },
+    {
+      "id": "science-rainbow-01",
+      "title": "Make a Rainbow",
+      "topic": "Science",
+      "subtopics": [
+        "Light",
+        "Optics"
+      ],
+      "ageBands": [
+        "4-5",
+        "6-8",
+        "9-12"
+      ],
+      "tags": [
+        "rainbow",
+        "light",
+        "color"
+      ],
+      "mediaType": "EMOJI",
+      "emoji": "🌈",
+      "funFact": "Rainbows appear when light is refracted, reflected and dispersed in water droplets.",
+      "difficulty": 3,
+      "interaction": "tap_to_reveal",
+      "estimatedViewSeconds": 8,
+      "animation": {
+        "preset": "float_bounce",
+        "durationMs": 2400,
+        "intensity": "gentle",
+        "loop": true
+      },
+      "reveal": {
+        "prompt": "Tap to discover!",
+        "style": "flip_fact"
+      }
+    },
+    {
+      "id": "science-volcano-01",
+      "title": "Inside a Volcano",
+      "topic": "Science",
+      "subtopics": [
+        "Earth Science",
+        "Geology"
+      ],
+      "ageBands": [
+        "4-5",
+        "6-8",
+        "9-12"
+      ],
+      "tags": [
+        "volcano",
+        "magma",
+        "geology"
+      ],
+      "mediaType": "EMOJI",
+      "emoji": "🌋",
+      "funFact": "A volcano can release lava, ash and gases from inside Earth.",
+      "difficulty": 2,
+      "interaction": "tap_to_reveal",
+      "estimatedViewSeconds": 8,
+      "animation": {
+        "preset": "float_bounce",
+        "durationMs": 2400,
+        "intensity": "gentle",
+        "loop": true
+      },
+      "reveal": {
+        "prompt": "Tap to discover!",
+        "style": "flip_fact"
+      }
+    },
+    {
+      "id": "science-plant-01",
+      "title": "How Plants Eat",
+      "topic": "Science",
+      "subtopics": [
+        "Biology",
+        "Plants"
+      ],
+      "ageBands": [
+        "4-5",
+        "6-8",
+        "9-12"
+      ],
+      "tags": [
+        "plant",
+        "photosynthesis",
+        "sunlight"
+      ],
+      "mediaType": "EMOJI",
+      "emoji": "🌱",
+      "funFact": "Plants use light energy to make sugars from carbon dioxide and water.",
+      "difficulty": 3,
+      "interaction": "tap_to_reveal",
+      "estimatedViewSeconds": 8,
+      "animation": {
+        "preset": "float_bounce",
+        "durationMs": 2400,
+        "intensity": "gentle",
+        "loop": true
+      },
+      "reveal": {
+        "prompt": "Tap to discover!",
+        "style": "flip_fact"
+      }
+    },
+    {
+      "id": "science-water-01",
+      "title": "Water Changes",
+      "topic": "Science",
+      "subtopics": [
+        "Chemistry",
+        "States of Matter"
+      ],
+      "ageBands": [
+        "4-5",
+        "6-8",
+        "9-12"
+      ],
+      "tags": [
+        "water",
+        "ice",
+        "steam"
+      ],
+      "mediaType": "EMOJI",
+      "emoji": "💧",
+      "funFact": "Water can exist as solid ice, liquid water or water vapor.",
+      "difficulty": 2,
+      "interaction": "tap_to_reveal",
+      "estimatedViewSeconds": 8,
+      "animation": {
+        "preset": "float_bounce",
+        "durationMs": 2400,
+        "intensity": "gentle",
+        "loop": true
+      },
+      "reveal": {
+        "prompt": "Tap to discover!",
+        "style": "flip_fact"
+      }
+    },
+    {
+      "id": "science-gravity-01",
+      "title": "Gravity Drop",
+      "topic": "Science",
+      "subtopics": [
+        "Physics",
+        "Forces"
+      ],
+      "ageBands": [
+        "4-5",
+        "6-8",
+        "9-12"
+      ],
+      "tags": [
+        "gravity",
+        "force",
+        "falling"
+      ],
+      "mediaType": "EMOJI",
+      "emoji": "🍎",
+      "funFact": "Gravity attracts objects with mass toward one another.",
+      "difficulty": 2,
+      "interaction": "tap_to_reveal",
+      "estimatedViewSeconds": 8,
+      "animation": {
+        "preset": "float_bounce",
+        "durationMs": 2400,
+        "intensity": "gentle",
+        "loop": true
+      },
+      "reveal": {
+        "prompt": "Tap to discover!",
+        "style": "flip_fact"
+      }
+    },
+    {
+      "id": "science-dna-01",
+      "title": "DNA Code",
+      "topic": "Science",
+      "subtopics": [
+        "Biology",
+        "Genetics"
+      ],
+      "ageBands": [
+        "4-5",
+        "6-8",
+        "9-12"
+      ],
+      "tags": [
+        "dna",
+        "genetics",
+        "cells"
+      ],
+      "mediaType": "EMOJI",
+      "emoji": "🧬",
+      "funFact": "DNA carries biological information used by living things.",
+      "difficulty": 3,
+      "interaction": "tap_to_reveal",
+      "estimatedViewSeconds": 8,
+      "animation": {
+        "preset": "float_bounce",
+        "durationMs": 2400,
+        "intensity": "gentle",
+        "loop": true
+      },
+      "reveal": {
+        "prompt": "Tap to discover!",
+        "style": "flip_fact"
+      }
+    }
+  ]
+}

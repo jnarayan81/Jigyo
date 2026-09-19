@@ -1,0 +1,295 @@
+{
+  "schemaVersion": 2,
+  "packId": "space",
+  "name": "Amazing Space",
+  "description": "Animated discovery cards about space.",
+  "version": 2,
+  "packEmoji": "🚀",
+  "ageBands": [
+    "4-5",
+    "6-8",
+    "9-12"
+  ],
+  "cards": [
+    {
+      "id": "space-rocket-01",
+      "title": "Rocket Launch",
+      "topic": "Space",
+      "subtopics": [
+        "Spaceflight",
+        "Engineering"
+      ],
+      "ageBands": [
+        "4-5",
+        "6-8",
+        "9-12"
+      ],
+      "tags": [
+        "rocket",
+        "launch",
+        "spaceflight"
+      ],
+      "mediaType": "EMOJI",
+      "emoji": "🚀",
+      "funFact": "Rockets push hot gases downward to accelerate upward.",
+      "difficulty": 2,
+      "interaction": "tap_to_reveal",
+      "estimatedViewSeconds": 8,
+      "animation": {
+        "preset": "float_bounce",
+        "durationMs": 2400,
+        "intensity": "gentle",
+        "loop": true
+      },
+      "reveal": {
+        "prompt": "Tap to discover!",
+        "style": "flip_fact"
+      }
+    },
+    {
+      "id": "space-moon-01",
+      "title": "Moon Walker",
+      "topic": "Space",
+      "subtopics": [
+        "Moon",
+        "Orbits"
+      ],
+      "ageBands": [
+        "4-5",
+        "6-8",
+        "9-12"
+      ],
+      "tags": [
+        "moon",
+        "orbit",
+        "craters"
+      ],
+      "mediaType": "EMOJI",
+      "emoji": "🌙",
+      "funFact": "The Moon is Earth's natural satellite and its surface has many impact craters.",
+      "difficulty": 2,
+      "interaction": "tap_to_reveal",
+      "estimatedViewSeconds": 8,
+      "animation": {
+        "preset": "float_bounce",
+        "durationMs": 2400,
+        "intensity": "gentle",
+        "loop": true
+      },
+      "reveal": {
+        "prompt": "Tap to discover!",
+        "style": "flip_fact"
+      }
+    },
+    {
+      "id": "space-earth-01",
+      "title": "Blue Planet",
+      "topic": "Space",
+      "subtopics": [
+        "Planets",
+        "Earth"
+      ],
+      "ageBands": [
+        "4-5",
+        "6-8",
+        "9-12"
+      ],
+      "tags": [
+        "earth",
+        "planet",
+        "oceans"
+      ],
+      "mediaType": "EMOJI",
+      "emoji": "🌍",
+      "funFact": "Most of Earth's surface is covered by water.",
+      "difficulty": 1,
+      "interaction": "tap_to_reveal",
+      "estimatedViewSeconds": 8,
+      "animation": {
+        "preset": "float_bounce",
+        "durationMs": 2400,
+        "intensity": "gentle",
+        "loop": true
+      },
+      "reveal": {
+        "prompt": "Tap to discover!",
+        "style": "flip_fact"
+      }
+    },
+    {
+      "id": "space-saturn-01",
+      "title": "Saturn's Rings",
+      "topic": "Space",
+      "subtopics": [
+        "Planets",
+        "Saturn"
+      ],
+      "ageBands": [
+        "4-5",
+        "6-8",
+        "9-12"
+      ],
+      "tags": [
+        "saturn",
+        "rings",
+        "solar-system"
+      ],
+      "mediaType": "EMOJI",
+      "emoji": "🪐",
+      "funFact": "Saturn's rings contain countless pieces of ice and rock.",
+      "difficulty": 2,
+      "interaction": "tap_to_reveal",
+      "estimatedViewSeconds": 8,
+      "animation": {
+        "preset": "float_bounce",
+        "durationMs": 2400,
+        "intensity": "gentle",
+        "loop": true
+      },
+      "reveal": {
+        "prompt": "Tap to discover!",
+        "style": "flip_fact"
+      }
+    },
+    {
+      "id": "space-star-01",
+      "title": "A Star Is Born",
+      "topic": "Space",
+      "subtopics": [
+        "Stars",
+        "Astronomy"
+      ],
+      "ageBands": [
+        "4-5",
+        "6-8",
+        "9-12"
+      ],
+      "tags": [
+        "star",
+        "sun",
+        "astronomy"
+      ],
+      "mediaType": "EMOJI",
+      "emoji": "⭐",
+      "funFact": "Our Sun is a star that provides Earth with light and heat.",
+      "difficulty": 2,
+      "interaction": "tap_to_reveal",
+      "estimatedViewSeconds": 8,
+      "animation": {
+        "preset": "float_bounce",
+        "durationMs": 2400,
+        "intensity": "gentle",
+        "loop": true
+      },
+      "reveal": {
+        "prompt": "Tap to discover!",
+        "style": "flip_fact"
+      }
+    },
+    {
+      "id": "space-mars-01",
+      "title": "Mission to Mars",
+      "topic": "Space",
+      "subtopics": [
+        "Planets",
+        "Mars"
+      ],
+      "ageBands": [
+        "4-5",
+        "6-8",
+        "9-12"
+      ],
+      "tags": [
+        "mars",
+        "planet",
+        "exploration"
+      ],
+      "mediaType": "EMOJI",
+      "emoji": "🔴",
+      "funFact": "Mars appears reddish because iron minerals in its soil have oxidized.",
+      "difficulty": 3,
+      "interaction": "tap_to_reveal",
+      "estimatedViewSeconds": 8,
+      "animation": {
+        "preset": "float_bounce",
+        "durationMs": 2400,
+        "intensity": "gentle",
+        "loop": true
+      },
+      "reveal": {
+        "prompt": "Tap to discover!",
+        "style": "flip_fact"
+      }
+    },
+    {
+      "id": "space-galaxy-01",
+      "title": "Galaxy Explorer",
+      "topic": "Space",
+      "subtopics": [
+        "Galaxies",
+        "Astronomy"
+      ],
+      "ageBands": [
+        "4-5",
+        "6-8",
+        "9-12"
+      ],
+      "tags": [
+        "galaxy",
+        "milky-way",
+        "stars"
+      ],
+      "mediaType": "EMOJI",
+      "emoji": "🌌",
+      "funFact": "A galaxy is a huge collection of stars, gas, dust and dark matter held together by gravity.",
+      "difficulty": 3,
+      "interaction": "tap_to_reveal",
+      "estimatedViewSeconds": 8,
+      "animation": {
+        "preset": "float_bounce",
+        "durationMs": 2400,
+        "intensity": "gentle",
+        "loop": true
+      },
+      "reveal": {
+        "prompt": "Tap to discover!",
+        "style": "flip_fact"
+      }
+    },
+    {
+      "id": "space-astronaut-01",
+      "title": "Astronaut Adventure",
+      "topic": "Space",
+      "subtopics": [
+        "Spaceflight",
+        "People"
+      ],
+      "ageBands": [
+        "4-5",
+        "6-8",
+        "9-12"
+      ],
+      "tags": [
+        "astronaut",
+        "space",
+        "microgravity"
+      ],
+      "mediaType": "EMOJI",
+      "emoji": "🧑‍🚀",
+      "funFact": "Astronauts train for spaceflight and learn to work in microgravity.",
+      "difficulty": 2,
+      "interaction": "tap_to_reveal",
+      "estimatedViewSeconds": 8,
+      "animation": {
+        "preset": "float_bounce",
+        "durationMs": 2400,
+        "intensity": "gentle",
+        "loop": true
+      },
+      "reveal": {
+        "prompt": "Tap to discover!",
+        "style": "flip_fact"
+      }
+    }
+  ]
+}

@@ -1,0 +1,295 @@
+{
+  "schemaVersion": 2,
+  "packId": "dinosaurs",
+  "name": "Dinosaur World",
+  "description": "Animated discovery cards about dinosaurs.",
+  "version": 2,
+  "packEmoji": "🦖",
+  "ageBands": [
+    "4-5",
+    "6-8",
+    "9-12"
+  ],
+  "cards": [
+    {
+      "id": "dinosaurs-trex-01",
+      "title": "T. rex Detective",
+      "topic": "Dinosaurs",
+      "subtopics": [
+        "Theropods",
+        "Fossils"
+      ],
+      "ageBands": [
+        "4-5",
+        "6-8",
+        "9-12"
+      ],
+      "tags": [
+        "trex",
+        "theropod",
+        "fossil"
+      ],
+      "mediaType": "EMOJI",
+      "emoji": "🦖",
+      "funFact": "Tyrannosaurus rex was a large meat-eating dinosaur that lived late in the Cretaceous Period.",
+      "difficulty": 3,
+      "interaction": "tap_to_reveal",
+      "estimatedViewSeconds": 8,
+      "animation": {
+        "preset": "float_bounce",
+        "durationMs": 2400,
+        "intensity": "gentle",
+        "loop": true
+      },
+      "reveal": {
+        "prompt": "Tap to discover!",
+        "style": "flip_fact"
+      }
+    },
+    {
+      "id": "dinosaurs-triceratops-01",
+      "title": "Three Horns",
+      "topic": "Dinosaurs",
+      "subtopics": [
+        "Ceratopsians",
+        "Herbivores"
+      ],
+      "ageBands": [
+        "4-5",
+        "6-8",
+        "9-12"
+      ],
+      "tags": [
+        "triceratops",
+        "horns",
+        "herbivore"
+      ],
+      "mediaType": "EMOJI",
+      "emoji": "🦕",
+      "funFact": "Triceratops had three facial horns and a large bony frill.",
+      "difficulty": 2,
+      "interaction": "tap_to_reveal",
+      "estimatedViewSeconds": 8,
+      "animation": {
+        "preset": "float_bounce",
+        "durationMs": 2400,
+        "intensity": "gentle",
+        "loop": true
+      },
+      "reveal": {
+        "prompt": "Tap to discover!",
+        "style": "flip_fact"
+      }
+    },
+    {
+      "id": "dinosaurs-stegosaurus-01",
+      "title": "Stegosaurus Plates",
+      "topic": "Dinosaurs",
+      "subtopics": [
+        "Stegosaurs",
+        "Herbivores"
+      ],
+      "ageBands": [
+        "4-5",
+        "6-8",
+        "9-12"
+      ],
+      "tags": [
+        "stegosaurus",
+        "plates",
+        "tail"
+      ],
+      "mediaType": "EMOJI",
+      "emoji": "🦕",
+      "funFact": "Stegosaurus had large plates along its back and spikes on its tail.",
+      "difficulty": 2,
+      "interaction": "tap_to_reveal",
+      "estimatedViewSeconds": 8,
+      "animation": {
+        "preset": "float_bounce",
+        "durationMs": 2400,
+        "intensity": "gentle",
+        "loop": true
+      },
+      "reveal": {
+        "prompt": "Tap to discover!",
+        "style": "flip_fact"
+      }
+    },
+    {
+      "id": "dinosaurs-fossil-01",
+      "title": "Fossil Hunter",
+      "topic": "Dinosaurs",
+      "subtopics": [
+        "Paleontology",
+        "Fossils"
+      ],
+      "ageBands": [
+        "4-5",
+        "6-8",
+        "9-12"
+      ],
+      "tags": [
+        "fossil",
+        "paleontology",
+        "bones"
+      ],
+      "mediaType": "EMOJI",
+      "emoji": "🦴",
+      "funFact": "Fossils are preserved remains or traces of ancient living things.",
+      "difficulty": 2,
+      "interaction": "tap_to_reveal",
+      "estimatedViewSeconds": 8,
+      "animation": {
+        "preset": "float_bounce",
+        "durationMs": 2400,
+        "intensity": "gentle",
+        "loop": true
+      },
+      "reveal": {
+        "prompt": "Tap to discover!",
+        "style": "flip_fact"
+      }
+    },
+    {
+      "id": "dinosaurs-egg-01",
+      "title": "Dinosaur Eggs",
+      "topic": "Dinosaurs",
+      "subtopics": [
+        "Reproduction",
+        "Fossils"
+      ],
+      "ageBands": [
+        "4-5",
+        "6-8",
+        "9-12"
+      ],
+      "tags": [
+        "dinosaur",
+        "egg",
+        "nest"
+      ],
+      "mediaType": "EMOJI",
+      "emoji": "🥚",
+      "funFact": "Dinosaurs laid eggs, and fossilized nests help scientists study how some dinosaurs reproduced.",
+      "difficulty": 2,
+      "interaction": "tap_to_reveal",
+      "estimatedViewSeconds": 8,
+      "animation": {
+        "preset": "float_bounce",
+        "durationMs": 2400,
+        "intensity": "gentle",
+        "loop": true
+      },
+      "reveal": {
+        "prompt": "Tap to discover!",
+        "style": "flip_fact"
+      }
+    },
+    {
+      "id": "dinosaurs-pterosaur-01",
+      "title": "Flying Reptile",
+      "topic": "Dinosaurs",
+      "subtopics": [
+        "Pterosaurs",
+        "Prehistoric Life"
+      ],
+      "ageBands": [
+        "4-5",
+        "6-8",
+        "9-12"
+      ],
+      "tags": [
+        "pterosaur",
+        "flight",
+        "reptile"
+      ],
+      "mediaType": "EMOJI",
+      "emoji": "🪽",
+      "funFact": "Pterosaurs were flying reptiles, not dinosaurs.",
+      "difficulty": 3,
+      "interaction": "tap_to_reveal",
+      "estimatedViewSeconds": 8,
+      "animation": {
+        "preset": "float_bounce",
+        "durationMs": 2400,
+        "intensity": "gentle",
+        "loop": true
+      },
+      "reveal": {
+        "prompt": "Tap to discover!",
+        "style": "flip_fact"
+      }
+    },
+    {
+      "id": "dinosaurs-ankylosaurus-01",
+      "title": "Armored Ankylosaurus",
+      "topic": "Dinosaurs",
+      "subtopics": [
+        "Ankylosaurs",
+        "Herbivores"
+      ],
+      "ageBands": [
+        "4-5",
+        "6-8",
+        "9-12"
+      ],
+      "tags": [
+        "ankylosaurus",
+        "armor",
+        "club-tail"
+      ],
+      "mediaType": "EMOJI",
+      "emoji": "🦕",
+      "funFact": "Ankylosaurus had bony armor and a heavy club at the end of its tail.",
+      "difficulty": 3,
+      "interaction": "tap_to_reveal",
+      "estimatedViewSeconds": 8,
+      "animation": {
+        "preset": "float_bounce",
+        "durationMs": 2400,
+        "intensity": "gentle",
+        "loop": true
+      },
+      "reveal": {
+        "prompt": "Tap to discover!",
+        "style": "flip_fact"
+      }
+    },
+    {
+      "id": "dinosaurs-paleontologist-01",
+      "title": "Meet a Paleontologist",
+      "topic": "Dinosaurs",
+      "subtopics": [
+        "Paleontology",
+        "Science"
+      ],
+      "ageBands": [
+        "4-5",
+        "6-8",
+        "9-12"
+      ],
+      "tags": [
+        "paleontologist",
+        "fossil",
+        "science"
+      ],
+      "mediaType": "EMOJI",
+      "emoji": "⛏️",
+      "funFact": "Paleontologists study fossils to learn about ancient life.",
+      "difficulty": 2,
+      "interaction": "tap_to_reveal",
+      "estimatedViewSeconds": 8,
+      "animation": {
+        "preset": "float_bounce",
+        "durationMs": 2400,
+        "intensity": "gentle",
+        "loop": true
+      },
+      "reveal": {
+        "prompt": "Tap to discover!",
+        "style": "flip_fact"
+      }
+    }
+  ]
+}
