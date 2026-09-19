@@ -1,0 +1,39 @@
+{
+  "schemaVersion": 2,
+  "app": "Jigyo",
+  "contentVersion": 2,
+  "packs": [
+    {
+      "id": "animals",
+      "name": "Amazing Animals",
+      "version": 2,
+      "url": "packs/animals/pack.json",
+      "emoji": "🦁",
+      "cardCount": 8
+    },
+    {
+      "id": "space",
+      "name": "Amazing Space",
+      "version": 2,
+      "url": "packs/space/pack.json",
+      "emoji": "🚀",
+      "cardCount": 8
+    },
+    {
+      "id": "dinosaurs",
+      "name": "Dinosaur World",
+      "version": 2,
+      "url": "packs/dinosaurs/pack.json",
+      "emoji": "🦖",
+      "cardCount": 8
+    },
+    {
+      "id": "science",
+      "name": "Little Scientists",
+      "version": 2,
+      "url": "packs/science/pack.json",
+      "emoji": "🔬",
+      "cardCount": 8
+    }
+  ]
+}
