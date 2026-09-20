@@ -2,8 +2,8 @@
   "schemaVersion": 3,
   "packId": "video-discovery-mp4",
   "name": "MP4 Discovery Movies",
-  "version": 1,
-  "description": "Short, language-light MP4 discovery clips for Jigyo Media3 playback.",
+  "version": 2,
+  "description": "Eight child-friendly animated MP4 discovery scenes for Jigyo.",
   "cards": [
     {
       "id": "mp4-math-octopus-01",
@@ -15,12 +15,11 @@
       ],
       "tags": [
         "video",
-        "discovery",
-        "math"
+        "animated",
+        "discovery"
       ],
       "mediaType": "VIDEO",
       "mediaUrl": "media/math-octopus.mp4",
-      "emoji": "🐙",
       "funFact": "Four octopuses have 32 arms altogether.",
       "difficulty": 1,
       "interaction": "video_discovery",
@@ -36,12 +35,11 @@
       ],
       "tags": [
         "video",
-        "discovery",
-        "space"
+        "animated",
+        "discovery"
       ],
       "mediaType": "VIDEO",
       "mediaUrl": "media/space-rocket.mp4",
-      "emoji": "🚀",
       "funFact": "Rockets push hot gases downward to move upward.",
       "difficulty": 1,
       "interaction": "video_discovery",
@@ -49,7 +47,7 @@
     },
     {
       "id": "mp4-animal-elephant-01",
-      "title": "Amazing Elephant",
+      "title": "Elephant Trunk",
       "topic": "Animals",
       "ageBands": [
         "6-8",
@@ -57,12 +55,11 @@
       ],
       "tags": [
         "video",
-        "discovery",
-        "animals"
+        "animated",
+        "discovery"
       ],
       "mediaType": "VIDEO",
       "mediaUrl": "media/animal-elephant.mp4",
-      "emoji": "🐘",
       "funFact": "An elephant can use its trunk to smell, drink and pick things up.",
       "difficulty": 1,
       "interaction": "video_discovery",
@@ -70,7 +67,7 @@
     },
     {
       "id": "mp4-dino-trex-01",
-      "title": "T rex Steps",
+      "title": "T. rex Steps",
       "topic": "Dinosaurs",
       "ageBands": [
         "6-8",
@@ -78,12 +75,11 @@
       ],
       "tags": [
         "video",
-        "discovery",
-        "dinosaurs"
+        "animated",
+        "discovery"
       ],
       "mediaType": "VIDEO",
       "mediaUrl": "media/dino-trex.mp4",
-      "emoji": "🦖",
       "funFact": "T. rex walked on two powerful hind legs.",
       "difficulty": 1,
       "interaction": "video_discovery",
@@ -99,12 +95,11 @@
       ],
       "tags": [
         "video",
-        "discovery",
-        "science"
+        "animated",
+        "discovery"
       ],
       "mediaType": "VIDEO",
       "mediaUrl": "media/science-water.mp4",
-      "emoji": "💧",
       "funFact": "Water can be solid ice, liquid water, or water vapor.",
       "difficulty": 1,
       "interaction": "video_discovery",
@@ -120,12 +115,11 @@
       ],
       "tags": [
         "video",
-        "discovery",
-        "earth"
+        "animated",
+        "discovery"
       ],
       "mediaType": "VIDEO",
       "mediaUrl": "media/earth-volcano.mp4",
-      "emoji": "🌋",
       "funFact": "Magma is called lava after it reaches Earth's surface.",
       "difficulty": 1,
       "interaction": "video_discovery",
@@ -141,12 +135,11 @@
       ],
       "tags": [
         "video",
-        "discovery",
-        "human-body"
+        "animated",
+        "discovery"
       ],
       "mediaType": "VIDEO",
       "mediaUrl": "media/body-heart.mp4",
-      "emoji": "❤️",
       "funFact": "Your heart pumps blood around your body.",
       "difficulty": 1,
       "interaction": "video_discovery",
@@ -162,12 +155,11 @@
       ],
       "tags": [
         "video",
-        "discovery",
-        "engineering"
+        "animated",
+        "discovery"
       ],
       "mediaType": "VIDEO",
       "mediaUrl": "media/engineering-gears.mp4",
-      "emoji": "⚙️",
       "funFact": "Meshed gears turn in opposite directions.",
       "difficulty": 1,
       "interaction": "video_discovery",
