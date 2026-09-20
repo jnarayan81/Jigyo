@@ -1,0 +1,177 @@
+{
+  "schemaVersion": 3,
+  "packId": "video-discovery-mp4",
+  "name": "MP4 Discovery Movies",
+  "version": 1,
+  "description": "Short, language-light MP4 discovery clips for Jigyo Media3 playback.",
+  "cards": [
+    {
+      "id": "mp4-math-octopus-01",
+      "title": "Octopus Math",
+      "topic": "Math",
+      "ageBands": [
+        "6-8",
+        "9-12"
+      ],
+      "tags": [
+        "video",
+        "discovery",
+        "math"
+      ],
+      "mediaType": "VIDEO",
+      "mediaUrl": "media/math-octopus.mp4",
+      "emoji": "🐙",
+      "funFact": "Four octopuses have 32 arms altogether.",
+      "difficulty": 1,
+      "interaction": "video_discovery",
+      "estimatedViewSeconds": 8
+    },
+    {
+      "id": "mp4-space-rocket-01",
+      "title": "Rocket Launch",
+      "topic": "Space",
+      "ageBands": [
+        "6-8",
+        "9-12"
+      ],
+      "tags": [
+        "video",
+        "discovery",
+        "space"
+      ],
+      "mediaType": "VIDEO",
+      "mediaUrl": "media/space-rocket.mp4",
+      "emoji": "🚀",
+      "funFact": "Rockets push hot gases downward to move upward.",
+      "difficulty": 1,
+      "interaction": "video_discovery",
+      "estimatedViewSeconds": 8
+    },
+    {
+      "id": "mp4-animal-elephant-01",
+      "title": "Amazing Elephant",
+      "topic": "Animals",
+      "ageBands": [
+        "6-8",
+        "9-12"
+      ],
+      "tags": [
+        "video",
+        "discovery",
+        "animals"
+      ],
+      "mediaType": "VIDEO",
+      "mediaUrl": "media/animal-elephant.mp4",
+      "emoji": "🐘",
+      "funFact": "An elephant can use its trunk to smell, drink and pick things up.",
+      "difficulty": 1,
+      "interaction": "video_discovery",
+      "estimatedViewSeconds": 8
+    },
+    {
+      "id": "mp4-dino-trex-01",
+      "title": "T rex Steps",
+      "topic": "Dinosaurs",
+      "ageBands": [
+        "6-8",
+        "9-12"
+      ],
+      "tags": [
+        "video",
+        "discovery",
+        "dinosaurs"
+      ],
+      "mediaType": "VIDEO",
+      "mediaUrl": "media/dino-trex.mp4",
+      "emoji": "🦖",
+      "funFact": "T. rex walked on two powerful hind legs.",
+      "difficulty": 1,
+      "interaction": "video_discovery",
+      "estimatedViewSeconds": 8
+    },
+    {
+      "id": "mp4-science-water-01",
+      "title": "Water Changes",
+      "topic": "Science",
+      "ageBands": [
+        "6-8",
+        "9-12"
+      ],
+      "tags": [
+        "video",
+        "discovery",
+        "science"
+      ],
+      "mediaType": "VIDEO",
+      "mediaUrl": "media/science-water.mp4",
+      "emoji": "💧",
+      "funFact": "Water can be solid ice, liquid water, or water vapor.",
+      "difficulty": 1,
+      "interaction": "video_discovery",
+      "estimatedViewSeconds": 8
+    },
+    {
+      "id": "mp4-earth-volcano-01",
+      "title": "Volcano Explorer",
+      "topic": "Earth",
+      "ageBands": [
+        "6-8",
+        "9-12"
+      ],
+      "tags": [
+        "video",
+        "discovery",
+        "earth"
+      ],
+      "mediaType": "VIDEO",
+      "mediaUrl": "media/earth-volcano.mp4",
+      "emoji": "🌋",
+      "funFact": "Magma is called lava after it reaches Earth's surface.",
+      "difficulty": 1,
+      "interaction": "video_discovery",
+      "estimatedViewSeconds": 8
+    },
+    {
+      "id": "mp4-body-heart-01",
+      "title": "Heart Pump",
+      "topic": "Human Body",
+      "ageBands": [
+        "6-8",
+        "9-12"
+      ],
+      "tags": [
+        "video",
+        "discovery",
+        "human-body"
+      ],
+      "mediaType": "VIDEO",
+      "mediaUrl": "media/body-heart.mp4",
+      "emoji": "❤️",
+      "funFact": "Your heart pumps blood around your body.",
+      "difficulty": 1,
+      "interaction": "video_discovery",
+      "estimatedViewSeconds": 8
+    },
+    {
+      "id": "mp4-engineering-gears-01",
+      "title": "Gears in Motion",
+      "topic": "Engineering",
+      "ageBands": [
+        "6-8",
+        "9-12"
+      ],
+      "tags": [
+        "video",
+        "discovery",
+        "engineering"
+      ],
+      "mediaType": "VIDEO",
+      "mediaUrl": "media/engineering-gears.mp4",
+      "emoji": "⚙️",
+      "funFact": "Meshed gears turn in opposite directions.",
+      "difficulty": 1,
+      "interaction": "video_discovery",
+      "estimatedViewSeconds": 8
+    }
+  ]
+}
