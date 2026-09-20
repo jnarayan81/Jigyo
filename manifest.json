@@ -106,6 +106,14 @@
       "url": "packs/video-discovery/pack.json",
       "emoji": "🎬",
       "cardCount": 8
+    },
+    {
+      "id": "video-discovery-mp4",
+      "name": "MP4 Discovery Movies",
+      "version": 1,
+      "url": "packs/video-discovery-mp4/pack.json",
+      "emoji": "🎬",
+      "cardCount": 8
     }
   ]
 }
