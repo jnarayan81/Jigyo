@@ -1,7 +1,7 @@
 {
   "schemaVersion": 3,
   "app": "Jigyo",
-  "contentVersion": 4,
+  "contentVersion": 5,
   "packs": [
     {
       "id": "animals",
@@ -110,7 +110,7 @@
     {
       "id": "video-discovery-mp4",
       "name": "MP4 Discovery Movies",
-      "version": 1,
+      "version": 2,
       "url": "packs/video-discovery-mp4/pack.json",
       "emoji": "🎬",
       "cardCount": 8
